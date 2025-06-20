@@ -29,9 +29,10 @@
   * Gave tour of AI Futures space
   * Provided background and motivation for BIDS, open source, and open science.
   * Suggested areas in The Turing Way book that could be improved and explained how to navigate the repository/book
-  * Assigned resources (videos, existing written documentation) to consult  
+  * Assigned resources (videos, existing written documentation) to consult
+  * Create github issue on The Turing Way repository
 * JK
-  * Cory building keycard access and tour
+  * Granted cory building keycard access and tour
   * Contacted IT department as I was having difficulty logging into my Google account (resolved)
   * Intro to being an intern here
 * LWH
@@ -55,7 +56,7 @@
 * Compare these two sources of information. Identify areas that need changing, improving, or adding. Still in progress. (8 hours)
   * I wrote up these suggested changes in another doc, will share soon.
   * I also found a few typos so maybe this would be a nice first PR to the repository.
-* Read through some existing issues and updates on The Turing Way
+* Read through some past PRs and existing issues on The Turing Way to understand how to contribute (1 hour)
 * Forked The Turing Way repository and set up a local edit enviroment, and installed all necessary libraries and software. Learned about Jupyter Books (1 hour)
 * Wrote up this report document (2 hours)
 
@@ -81,6 +82,7 @@ My available hours next week are 8, 8, 8, 8, 8.
     *9:00 AM – 10:30 AM:* Attend BIDS panel and take notes  
     *1:00 PM – 5:00 PM:* Workshop support
 
-##### todo
+##### misc todo
 
 * [ ] Attend OSPO office hours and meet the staff
+* [ ] BIDS website title+headshot+bio
