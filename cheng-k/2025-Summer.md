@@ -85,7 +85,6 @@
     *8:30 AM – 1:00 PM*: Workshop support
   * **Thursday, June 26**  
     *1:00 PM – 6:00 PM*: Workshop support
-
   * **Friday, June 27**  
     *9:00 AM – 10:30 AM:* Attend BIDS panel and take notes  
     *1:00 PM – 5:00 PM:* Workshop support
