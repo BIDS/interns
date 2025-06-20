@@ -62,6 +62,11 @@
 * Compare these two sources of information. Identify areas that need changing, improving, or adding. Still in progress. (8 hours)
   * I wrote up these suggested changes in another doc, will share soon.
 
+##### Meetings
+
+* Talk with KW and JK about intro to BIDS, The Turing Way, and Open Science (3 hours)
+* Tour AI Futures space (1 hour)
+
 ##### Housekeeping
 
 * I also found a few typos so maybe this would be a nice first PR to the repository.
