@@ -66,7 +66,7 @@
 * Forked The Turing Way repository and set up a local edit enviroment, and installed all necessary libraries and software. Learned about Jupyter Books (1 hour)
 * Wrote up this report document (2 hours)
 
-##### Misc
+##### Housekeeping
 
 * Joined BIDS mailing newsletter lists
 * Completed onboarding trainings (3 hours)
