@@ -53,7 +53,7 @@
   * [Communication Guide](https://book.the-turing-way.org/communication/comms-overview)
 * Watch 3 three [AIM-rsf](https://github.com/aim-rsf/training/tree/main/version-control) videos and read slides (4 hours)
   * "intro to git", "intro to github", "github for collaboration"
-* Compare these two sources of information. Identify areas that need changing, improving, or adding. Still in progress. (8 hours)
+* Compare these two sources of information. Identify areas that need changing, improving, or adding. Still in progress. (2 hours)
   * I wrote up these suggested changes in another doc, will share soon.
 
 ##### Meetings
