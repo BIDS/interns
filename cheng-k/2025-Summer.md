@@ -11,11 +11,16 @@
 
 #### 🌱
 
-* I have learned a lot about open source in the past few days. I am amazed at the quality of work put in by passionate volunteers. I never realized that there needs to be documentation on how to write documentation. So many products use open source tools such as Python, and it's all thanks to the collective work of thousands (millions?) of people who together want to create a useful and accessible tool. Managing a repository and its growing community is no small feat behind the scenes.
+* I have learned a lot about open source in the past few days. I am amazed at the quality of work put in by passionate volunteers
+  I never realized that there needs to be documentation on how to write documentation.
+  So many products use open source tools such as Python, and it's all thanks to the collective work of thousands (millions?) of people who together want to create a useful and accessible tool.
+  Managing a repository and its growing community is no small feat behind the scenes.
 
 #### 🌵
 
-* The "The Turing Way" book is written with great depth. It is sometimes difficult to recognize what information can be added simply due to the fact that it is already so detailed. Some possible additions are already written elsewhere in the book, so I am not sure if it is a matter of linking to it or adding a copy.
+* The "The Turing Way" book is written with great depth.
+  It is sometimes difficult to recognize what information can be added simply due to the fact that it is already so detailed.
+  Some possible additions are already written elsewhere in the book, so I am not sure if it is a matter of linking to it or adding a copy.
 
 ### 🤝 Reciprocal support
 
