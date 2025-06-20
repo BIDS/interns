@@ -73,11 +73,9 @@
 
 #### What will I do next week?
 
-My available hours next week are 8, 8, 8, 8, 8.
-
+* My available hours next week are 8, 8, 8, 8, 8.
 * Continue to improve "The Turing Way" documentation and make pull request(s)
 * DSUS Workshop
-
   * **Monday, June 23**  
     *8:30 AM – 1:00 PM*: Workshop support
 
