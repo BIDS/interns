@@ -61,13 +61,13 @@
   * "intro to git", "intro to github", "github for collaboration"
 * Compare these two sources of information. Identify areas that need changing, improving, or adding. Still in progress. (8 hours)
   * I wrote up these suggested changes in another doc, will share soon.
-  * I also found a few typos so maybe this would be a nice first PR to the repository.
-* Read through some past PRs and existing issues on The Turing Way to understand how to contribute (1 hour)
-* Forked The Turing Way repository and set up a local edit enviroment, and installed all necessary libraries and software. Learned about Jupyter Books (1 hour)
-* Wrote up this report document (2 hours)
 
 ##### Housekeeping
 
+* I also found a few typos so maybe this would be a nice first PR to the repository.
+* Read through some past PRs and existing issues on The Turing Way to understand how to contribute (1 hour)
+* Forked The Turing Way repository and set up a local edit enviroment, and installed all necessary libraries and software. Learned about Jupyter Books (1 hour)
+* Wrote up this report document (2 hours)
 * Joined BIDS mailing newsletter lists
 * Completed onboarding trainings (3 hours)
 
