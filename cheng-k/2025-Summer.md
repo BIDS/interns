@@ -5,19 +5,16 @@
 ### Rose-bud-thorn
 
 #### 🌹
-
 * I now have a good understanding about BIDS, goals it strives to address, and ideas it stands for.
   I am looking forward to continuing to work on these initiatives!
 
 #### 🌱
-
 * I have learned a lot about open source in the past few days. I am amazed at the quality of work put in by passionate volunteers
   I never realized that there needs to be documentation on how to write documentation.
   So many products use open source tools such as Python, and it's all thanks to the collective work of thousands (millions?) of people who together want to create a useful and accessible tool.
   Managing a repository and its growing community is no small feat behind the scenes.
 
 #### 🌵
-
 * The "The Turing Way" book is written with great depth.
   It is sometimes difficult to recognize what information can be added simply due to the fact that it is already so detailed.
   Some possible additions are already written elsewhere in the book, so I am not sure if it is a matter of linking to it or adding a copy.
@@ -25,11 +22,9 @@
 ### 🤝 Reciprocal support
 
 #### Who did I help?
-
 * Trying to identify ways to (further) improve The Turing Way book
 
 #### Who helped me?
-
 * KW
   * Introduced me to BIDS and laid foundation for next few weeks
   * Gave tour of AI Futures space
@@ -50,7 +45,6 @@
 #### What did I do?
 
 ##### Updating GitHub content in The Turing Way
-
 * Watched [Stefan's talk](https://www.youtube.com/watch?v=cmUtiEv4xm4) from last year and took notes (3 hours)
   * Good intro to the community behind open science, can elaborate more from this video if needed.
   * I am really surprised that 50% of UC Berkeley undergraduates take Data8 - Intro to Data Science!
@@ -63,12 +57,10 @@
   * I wrote up these suggested changes in another doc, will share soon.
 
 ##### Meetings
-
 * Talk with KW and JK about intro to BIDS, The Turing Way, and Open Science (3 hours)
 * Tour AI Futures space (1 hour)
 
 ##### Housekeeping
-
 * I also found a few typos so maybe this would be a nice first PR to the repository.
 * Read through some past PRs and existing issues on The Turing Way to understand how to contribute (1 hour)
 * Forked The Turing Way repository and set up a local edit enviroment, and installed all necessary libraries and software. Learned about Jupyter Books (1 hour)
@@ -77,7 +69,6 @@
 * Completed onboarding trainings (3 hours)
 
 #### What will I do next week?
-
 * My available hours next week are 8, 8, 8, 8, 8.
 * Continue to improve "The Turing Way" documentation and make pull request(s)
 * DSUS Workshop
@@ -90,6 +81,5 @@
     *1:00 PM – 5:00 PM:* Workshop support
 
 ##### misc todo
-
 * [ ] Attend OSPO office hours and meet the staff
 * [ ] BIDS website title+headshot+bio
