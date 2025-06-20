@@ -6,7 +6,8 @@
 
 #### 🌹
 
-* I now have a good understanding about BIDS, goals it strives to address, and ideas it stands for. I am looking forward to continuing to work on these initiatives!
+* I now have a good understanding about BIDS, goals it strives to address, and ideas it stands for.
+  I am looking forward to continuing to work on these initiatives!
 
 #### 🌱
 
