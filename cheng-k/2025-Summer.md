@@ -83,7 +83,6 @@
 * DSUS Workshop
   * **Monday, June 23**  
     *8:30 AM – 1:00 PM*: Workshop support
-
   * **Thursday, June 26**  
     *1:00 PM – 6:00 PM*: Workshop support
 
