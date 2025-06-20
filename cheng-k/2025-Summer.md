@@ -49,7 +49,7 @@
 
 #### What did I do?
 
-##### Main
+##### Updating GitHub content in The Turing Way
 
 * Watched [Stefan's talk](https://www.youtube.com/watch?v=cmUtiEv4xm4) from last year and took notes (3 hours)
   * Good intro to the community behind open science, can elaborate more from this video if needed.
