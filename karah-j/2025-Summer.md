@@ -14,8 +14,8 @@ Despite how busy they are, I was able to get the meeting on the calendar, which 
   I'm looking forward to continuing to be part of this work.
 
 #### 🌵   
-* I’ve been trying to figure out what benefits student workers may be entitled to, but have been bounced around several times.
-  It’s taken more time than expected, though I feel like I’m closing in on a clear answer.
+* I've been trying to figure out what benefits student workers may be entitled to, but have been bounced around several times.
+  It's taken more time than expected, though I feel like I’m closing in on a clear answer.
 
 ### 🤝 Reciprocal support
 
