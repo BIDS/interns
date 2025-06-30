@@ -63,7 +63,8 @@
   I am looking forward to continuing to work on these initiatives!
 
 #### 🌱
-* I have learned a lot about open source in the past few days. I am amazed at the quality of work put in by passionate volunteers
+* I have learned a lot about open source in the past few days.
+  I am amazed at the quality of work put in by passionate volunteers.
   I never realized that there needs to be documentation on how to write documentation.
   So many products use open source tools such as Python, and it's all thanks to the collective work of thousands (millions?) of people who together want to create a useful and accessible tool.
   Managing a repository and its growing community is no small feat behind the scenes.
