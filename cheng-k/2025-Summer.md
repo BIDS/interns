@@ -47,7 +47,7 @@
 
 ##### Meetings
 * Met with KW and JK for weekly update (1 hour)
-* Met with KW and BS and TH for SciPy discussion (1 hour)
+* Met with KW and BS and TH for Scientific Python discussion (1 hour)
 
 #### What will I do next week?
 * My available hours next week are 8, 8, 8, 8.
