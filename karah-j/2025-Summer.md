@@ -33,7 +33,7 @@
 ### Activities / tasks
 
 #### What did I do?
-#####CDSS/ Interdisciplinary coordination
+##### CDSS / Interdisciplinary coordination
 * Prepped and wrapped up AIAS meeting (3 hrs)
 * Coordinated calendar holds for future conference (0.5 hrs)
 
