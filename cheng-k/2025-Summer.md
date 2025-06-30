@@ -8,13 +8,13 @@
 * Staffing DSUS was successful. Shifts were well defined and the event went smoothly.
 
 #### 🌱
-* DSUS workshop  was such a good event!
+* DSUS workshop was such a great event!
   I met so many people and learned a lot about the data science ecosystem here on campus.
 
 
 #### 🌵
-* When writing pieces for a workshop event, it is a challenge to figure out what to write about.
-  There is a lot of information being presented.
+* When writing pieces for a workshop event, it was a challenge to figure out what to write about.
+  There was a lot of information being presented.
   I needed to identify the overarching theme and write about only the relevant aspects of the talk.
 
 ### 🤝 Reciprocal support
@@ -29,7 +29,6 @@
 * KW
   * Guidance and direction for Turing Way Work
   * DSUS help
-
 * JK and TH
   * w/ DSUS support
 * LWH
