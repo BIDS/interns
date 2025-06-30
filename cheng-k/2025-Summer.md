@@ -5,7 +5,8 @@
 ### Rose-bud-thorn
 
 #### 🌹
-* Staffing DSUS was successful. Shifts were well defined and the event went smoothly.
+* Staffing DSUS was successful.
+  Shifts were well defined and the event went smoothly.
 
 #### 🌱
 * DSUS workshop was such a great event!
@@ -41,6 +42,7 @@
 
 ##### DSUS
 * Supported DSUS (33.5 hours)
+  * Check-in, attended talks to collect content for BIDS social posts, lunch setup/cleanup, space setup/cleanup.
 * PR demo for KW (1 hour)
 * Write pieces covering DSUS (3.5 hours)
 
