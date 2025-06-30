@@ -29,7 +29,6 @@
 * KW Provided guidance and feedback during our check-in
 * AH gave me advice on some of my open projects
 
-
 ### Activities / tasks
 
 #### What did I do?
