@@ -9,7 +9,8 @@
   I enjoy this kind of work, as it allows me to better try and understand the many different projects under BIDS and Open Source as a whole. 
 
 #### 🌱
-* I learned a lot about The Turing Way and GitHub both as a platform and as a participant. I am still far from proficient, and still need a lot of training, but I feel better suited to write about the platforms and hopefully make some contributions of my own.
+* I learned a lot about The Turing Way and GitHub both as a platform and as a participant.
+  I am still far from proficient, and still need a lot of training, but I feel better suited to write about the platforms and hopefully make some contributions of my own.
 
 #### 🌵   
 * Also regarding The Turing Way, I struggled to make a pull request for an issue with merging two chapters in the novel. I definitely need some help and need to learn more before making an actual contribution. 
