@@ -35,7 +35,7 @@
 #### What did I do?
 
 ##### BIDS 
-* BIDS Blog post writing and editing (6 hrs)
+* [BIDS Blog post](https://bids.berkeley.edu/news/building-open-network-friday-morning-panel-showcases-leadership-across-open-source-ecosystem) writing and editing (6 hrs)
 * Final onboarding support with JK  (CalTime, GitHub, access) (1 hr)
 * Meeting with Kirstie and interns (2 hrs)
 * Meeting with KW and KC about Turing way (1 hr)
