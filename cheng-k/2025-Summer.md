@@ -1,5 +1,79 @@
 # Kyle Cheng
 
+## w/c 30 June 2025
+
+### Rose-bud-thorn
+
+#### 🌹
+
+* Writing my proposals onto a Google doc was a great way to organize my thoughts during our meeting. 
+
+#### 🌱
+
+* Excited to start contributing to The Turing Way!
+  I posted the writeup to GitHub and we will wait for others to give the ok or suggestions.
+
+#### 🌵
+
+* Captioning was more difficult than I expected and could easily turn into an endless task if I wanted the captioning to be 100% perfect.
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+
+* BIDS / JK
+  * I helped finish captioning Peter's talk
+* TH
+  * I sent over my notes for last Friday's BIDS panel
+* LWH
+  * Wrote a few notes for regarding Peter's talk
+  * Explained my work and also setting up GitHub issue templates
+* The Turing Way
+  * I am working on improving documentation
+
+#### Who helped me?
+
+* KW
+  * Guidance on how to approach The Turing Way work, and what to post and document on GitHub.
+* JK
+  * Taught me how to caption and how to set up my computer system for doing so.
+  * Captioned all of Peter's talk before me
+
+### Activities / tasks
+
+#### What did I do?
+
+##### The Turing Way
+
+* Read over documentation to identify and brainstorm improvements (15 hours)
+* Set up local system, download book and install dependencies (2 hours)
+* Writeup Turing Way plan doc (3 hours)
+* Writeup Github post (2 hours)
+* Began writing GitHub tutorials (3 hours)
+
+###### Local build notes
+
+* Had to install python 3.13 via deadsnakes because the jupyterbook wants ipython==9.2.0, ubuntu is still on python 3.10.12.
+* Building the book takes quite long, 6 minutes, but works
+
+##### Captioning
+
+* Setting up computer for captioning and learn how to caption with JK (0.5 hour)
+* Captioning and watching the video (3.25 hours)
+* Convert to caption file, upload, summary of video, etc (0.25 hour)
+
+##### Meetings
+
+* Met with KW and JK and TH for weekly update (2 hours)
+* Met with LWH (1 hour)
+  * explained my The Turing Way work and issue templates
+
+#### What will I do next week?
+
+* My available hours next week are 0, 0, 0, 0
+
+***
+
 ## w/c 23 June 2025
 
 ### Rose-bud-thorn
