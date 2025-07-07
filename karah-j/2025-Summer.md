@@ -1,6 +1,79 @@
 # Jamilah Karah
 
 
+## w/c 30 June 2025
+
+### Rose-bud-thorn
+
+#### 🌹
+* Organizing the BIDS photo folder was a satisfying task. 
+  I enjoy this kind of detailed work, and it gave me a chance to think about additional ways the folder could be organized or made more useful going forward.
+
+#### 🌱
+* I explored OtterAI as a potential tool for future captioning needs. 
+  From my testing, it seems noticeably more accurate than Adobe Premiere, which opens up some promising possibilities, though we must pay for the services ($8 a month for 10 videos)
+
+#### 🌵   
+* Coordinating schedules with one individual has taken more than a couple of emails, which I completely understand. 
+  Still, I’m hoping to get something confirmed soon so everyone can move forward with the project rather than feel like they need to keep checking in with me about their availability.
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Transferred captioning responsibilities to KC and made sure he had what he needed (thanks!)
+* Drafted and sent possible lecture dates to AH
+* Processed AH’s reimbursement
+* Helped TH with final onboarding steps (CalTime, Github logs, and building access)
+* Helped coordinate intern calendars and shared responsibilities
+* Tidied up the BIDS photo folder for easier access
+
+#### Who helped me?
+* KR
+  * Figuring out a solution to a problem in the BIDMaP space
+* P&T
+  * Explained there is no benefits for student workers (or any worker for that matter) regarding reimbursements for public transportation
+* LWH
+  * Guided first steps of the BIDS photo folder process
+* AH
+  * Shared advice on questions about potential responsibilities
+* KC
+  * Looked over the BIDS video transcript
+
+### Activities / tasks
+
+#### What did I do?
+##### CDSS/ Interdisciplinary Coordination
+* AIAS follow-up coordination and itinerary drafting (1.5 hr)
+* Drafted and sent potential lecture dates (0.5 hr)
+* Reviewed receipts and additionally processed a couple of reimbursements (2.5 hrs)
+* Checked in with AH about a few next steps (2 hrs)
+
+##### BIDMaP Coordination
+* Processed AH reimbursement (0.5 hr)
+* Managed Cory office space (cleaning, unloading, organizing supplies) (4 hrs)
+* Processed personal reimbursement (0.5 hr)
+* Problem solved to find a way to automatically buy products (3 hrs)
+
+##### BIDS Coordination
+* Discussed folder management (0.5 hr)
+* Tidied BIDS photo folder (1.5 hr)
+* Coordinated calendar and task planning between interns (1 hr)
+* Final onboarding support for TH (CalTime, GitHub, access) (1.5 hrs)
+* Meeting with Kirstie and interns (2 hrs)
+* Transferred BIDS video captioning task to KC (1.5 hr)
+* Explored OtterAI for transcription purposes (0.5 hr)
+* Discussed possibility of further travel reimbursement with P & T (1 hr)
+
+#### What will I do next week?
+* My available hours next week are 8, 8, 8, 8, 8.
+##### BIDS Coordination
+* Finish Photoshelter Project
+* Lilli mentioned additional projects and plans to discuss them further
+* SciComm Series!
+* Boba party!
+* Continue supporting KW, KC, and TH as needed
+
+
 ## w/c 23 June 2025
 
 ### Rose-bud-thorn
