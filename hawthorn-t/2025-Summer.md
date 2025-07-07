@@ -44,12 +44,11 @@
 * Starting organization and format for Issue in Turing way (4 hr)
 * Intern Trainings and more onboarding steps (4.5 hr)
 
-#### What will I do next week?
-* My available hours next week are 8, 8, 8, 8, 8.
-##### BIDS Coordination
+#### What will I do next week? 
 * Finish pull request for merging the chapters in the turing way
 * Boba party and science training on mon, wed, thurs, fri!
-* Continue supporting whoever needs help with any projects. 
+* Continue supporting whoever needs help with any projects.
+* My available hours next week are 8, 8, 8, 8, 8.
 
 ## w/c 23 June 2025
 
@@ -84,3 +83,7 @@
 * I wrote the linkedIn and Blue sky posts for two of the panels 3 (3 hrs)
 * Worked towards a greater understanding of open science and BIDS as a whole. (1 hr)
 * Staffed the DSUS events and had onboarding lunch with KW (10.5 hrs)
+
+#### What will I do next week? 
+* Help contribute to the Turing Way as well as some another Blog post for BIDS.
+* My available hours are 8,8,8,0
