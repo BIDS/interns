@@ -13,7 +13,8 @@
   I am still far from proficient, and still need a lot of training, but I feel better suited to write about the platforms and hopefully make some contributions of my own.
 
 #### 🌵   
-* Also regarding The Turing Way, I struggled to make a pull request for an issue with merging two chapters in the novel. I definitely need some help and need to learn more before making an actual contribution. 
+* Also regarding The Turing Way, I struggled to make a pull request for an issue with merging two chapters in the book.
+  I definitely need some help and need to learn more before making an actual contribution. 
 
 ### 🤝 Reciprocal support
 
