@@ -83,4 +83,4 @@
 
 * I wrote the linkedIn and Blue sky posts for two of the panels 3 (3 hrs)
 * Worked towards a greater understanding of open science and BIDS as a whole. (1 hr)
-* Staffed the DSUS events (10.5 hrs)
+* Staffed the DSUS events and had onboarding lunch with KW (10.5 hrs)
