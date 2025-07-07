@@ -5,7 +5,8 @@
 ### Rose-bud-thorn
 
 #### 🌹
-* Writing the BIDS last blog post about the final day of the panel was a satisfying and engaging task. I enjoy this kind of work, as it allows me to better try and understand the many different projects under BIDS and Open Source as a whole. 
+* Writing the BIDS last blog post about the final day of the panel was a satisfying and engaging task.
+  I enjoy this kind of work, as it allows me to better try and understand the many different projects under BIDS and Open Source as a whole. 
 
 #### 🌱
 * I learned a lot about The Turing Way and GitHub both as a platform and as a participant. I am still far from proficient, and still need a lot of training, but I feel better suited to write about the platforms and hopefully make some contributions of my own.
