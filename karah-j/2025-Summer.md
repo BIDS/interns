@@ -15,7 +15,7 @@
 
 #### 🌵   
 * Coordinating schedules with one individual has taken more than a couple of emails, which I completely understand. 
-  Still, I’m hoping to get something confirmed soon so everyone can move forward with the project rather than feel like they need to keep checking in with me about their availability.
+  Still, I'm hoping to get something confirmed soon so everyone can move forward with the project rather than feel like they need to keep checking in with me about their availability.
 
 ### 🤝 Reciprocal support
 
@@ -131,7 +131,7 @@
 * Meeting with LH to discuss BIDS video captioning project (0.5 hrs)
 
 #### What will I do next week?
-* My available hours next week are 8, 8, 8, 8, 8.
+* My available hours next week are 8, 8, 8, 8.
 
 ##### CDSS Coordination
 * Confirm AIAS follow-up meeting
