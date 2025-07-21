@@ -1,5 +1,151 @@
 # Jamilah Karah
 
+## w/c 14 July 2025
+
+### Rose-bud-thorn
+
+#### 🌹
+* Looking through BIDS-related research exposed me to some nuanced ways AI and data are being used as problem solvers.
+  It was interesting to see how different projects define their impact, and it gave me a more diverse understanding of the roles these tools can play across disciplines.
+
+#### 🌱
+* We've been experimenting with different ways of formatting seminar insights, but still figuring out what's most useful to highlight and how to balance detail with clarity.
+
+#### 🌵   
+* Nothing stood out as especially frustrating this week.
+  Instead of reaching for something to critique, I'm taking it as a good sign that the week felt balanced and steady.
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Continued organizing BIDMaP contacts and assisted with email prep
+* Maintained the BIDMaP space and worked on the seminar insights
+* Participated in the JupyterHub/Binder/Book Collab Café
+* Worked with the interns and contributed to the OSPO blog draft
+
+#### Who helped me?
+* LWH
+  * Helped with editing OSPO post
+  * Clarified details for DS and AI news bits
+  * Answered questions about Photoshelter upload
+* KW
+  * Led intern sync and provided clarity around some of the ongoing tasks
+* TH
+  * Collaborated on seminar insights and project descriptions
+* TH and KC
+  * Provided input on their current role to support a future job description draft
+
+### Activities / tasks
+
+#### What did I do?
+##### CDSS / Interdisciplinary Coordination
+* Email about AIAS (0.5 hr)
+* Grant summary (1 hr)
+* Compliance troubleshooting (1.5 hrs)
+* Invitation email prep (1.5 hr)
+
+##### BIDMaP Coordination
+* Organizing BIDMaP contacts (3 hr)
+* Space maintenance (5 hrs)
+* Budget work (1.5 hr)
+* Email prep and drafting (2 hr)
+* Managing operational adjustments  (3 hrs)
+
+##### BIDS Coordination
+* OSPO blog publishing work (1.5 hr)
+* Chat with Laura about OSPO (1 hr)
+* Searching for BIDS research/projects (2 hrs)
+* BIDS job description drafting (2 hr)
+* JupyterHub/Binder/JupyterBook Collab Cafe (2 hrs)
+* Weekly meeting with Kirstie & BIDS interns (1.5 hrs)
+* Photoshelter upload (2 hrs)
+* BIDS activity log (1 hr)
+* Seminar insights work (1.5 hrs)
+
+#### What will I do next week?
+* My available hours next week are 8, 8, 8, 8, 8.
+##### BIDS Coordination
+* Finish BIDMaP contacts list
+* Present seminar findings
+* Follow up with SciComm presentation sharing
+* Handle reimbursements
+* Work on BIDMaP technical tasks
+* Continue supporting LWH, KW, KC, and TH as needed
+
+
+## w/c 7 July 2025
+
+### Rose-bud-thorn
+
+#### 🌹
+* Writing up insights from the seminar series was fun! 
+  I used code to surface patterns in the data, which I haven't done in a while outside of organizational tasks. 
+  It felt nice to apply those skills toward something reflective and analytical.
+
+#### 🌱
+* The OSPO Meetup sparked some ideas/possibilities about broader cross-campus collaborations. 
+  I'm still getting my bearings on how these kinds of relationships and meetings typically move forward, but it was helpful to get an initial look into what's happening in that space.
+
+#### 🌵   
+* After more than two years of searching for a way to automate buying perishable goods, I may have finally come across a promising lead. 
+  But the person who knows more hasn't responded yet, so while I'm hopeful, the wait has definitely made this feel like a bit of a thorn.
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Shared initial outreach materials and background prep for two upcoming meetings
+* Wrote up attendance insights from recent seminars
+* Participated in and supported SciComm Series posts
+* Coordinated and debriefed with TH after intern sync
+
+#### Who helped me?
+* LWH
+  * Helped walk through attendance insight goals and shared expectations
+  * Gave advice and helped edit the blog posts
+* TH
+  * Gave feedback on intern meeting flow and discussed shared coordination
+* AH
+  * Met to discuss several open items
+* KW
+  * Guidelines with the OSPO post and feedback for quotes to be used
+
+### Activities / tasks
+
+#### What did I do?
+##### CDSS/ Interdisciplinary Coordination
+* AIAS meeting and recap (1.5 hrs)
+* Background and outreach for two meetings (1.5 hrs)
+* Gateway tour (1.5 hrs)
+* Background research for a potential speaker (1 hr)
+
+##### BIDMaP Coordination
+* Maintaining BIDMaP space (5 hrs)
+* Problem solved to find a way to automatically buy products (1 hr)
+* Meeting with AH (1.5 hrs)
+
+##### BIDS Coordination
+* OSPO Meetup (1.5 hrs)
+* OSPO blog writing (1.5 hrs)
+* BIDS weekly intern meeting (2 hrs)
+* Post-intern meeting check-in with TH (1 hr)
+* BIDS activity log (1 hr)
+* SciComm Series participation (3.5 hrs)
+* Writing SciComm articles (2.5 hrs)
+* Seminar attendance insights write-up (5 hrs)
+* Meeting with LWH to go over attendance insight goals (0.5 hr)
+* Photoshelter outreach (0.5 hr)
+* Boba social (2 hrs)
+
+#### What will I do next week?
+* My available hours next week are 8, 8, 8, 8, 8.
+##### BIDS Coordination
+* Finish Photoshelter project
+* Publish draft for OSPO blog
+* Tie up loose ends for logistics in BIDMaP space
+* Keep an eye on coordination for the upcoming meeting with CDSS
+* Finish code for BIDS seminar attendance insights
+* Continue supporting LWH, KW, KC, and TH as needed
+
 
 ## w/c 30 June 2025
 
