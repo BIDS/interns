@@ -1,5 +1,60 @@
 # Kyle Cheng
 
+ w/c 14 July 2025
+
+### Rose-bud-thorn
+
+#### 🌹
+
+* I started writing the Motivation for Github page, and it is going well.
+
+#### 🌱
+
+* I learned a lot after the meeting with LL of the OSPO department.
+  I did not the OSPOs of different organizations are so well connected.
+
+#### 🌵
+
+* KW has warned me to have a mindset that is ok with receiving feedback when contributing to open source.
+  I agree.
+  I know that there will be lots of suggestions on my pull request and it will be ok.
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+
+* The Turing Way
+
+#### Who helped me?
+* KW - Guidance on The Turing Way work
+* LL - Introduction to OSPO and its projects
+
+### Activities / tasks
+
+#### What did I do?
+
+##### The Turing Way
+
+* Wrote and improved Motivation for GitHub page (27 hours)
+* Identify source for each new page, post on GitHub (2 hours)
+* Writeup github post/comment (1 hour)
+* Set up local environment and building book locally (2 hours)
+* Reading other sources and tutorials (3 hours)
+* Talked with KW very shortly about the page so far and areas to improve on
+
+##### Meetings
+
+* Weekly update - KW and JK and TH (1 hour)
+* GitHub issues talk - LWH and JK and TH (1 hour)
+* Jupyter Collaboration Cafe (2 hours)
+* OSPO Meeting - LL, TH, JK (1 hour)
+
+#### What will I do next week?
+
+* My available hours next week are
+
+8, 8, 8, 8, 8
+
 ## w/c 30 June 2025
 
 ### Rose-bud-thorn
