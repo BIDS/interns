@@ -1,3 +1,51 @@
+## w/c 28 July 2025
+
+### Rose-bud-thorn
+
+#### 🌹
+* Being able to listen in at the BCEN conference. 
+* There were so many people from all over Berkeley coming together to discuss this shared goal. 
+* It was truly super special to be a part of the beginning of BCEN. 
+
+#### 🌱
+* I am excited to write the blog post for BCEN and dive deeper into the hopeful goals of the conference. 
+
+#### 🌵   
+* T minus to weeks until the summer is over! 
+* This internship has gone by too fast. 
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Helped Bidmap with the BCEN conference 
+* Helped LWH with intern issue #14 
+
+#### Who helped me?
+* LWH helped with intern issue #14 specifications
+ * JK and KC helped with the clarification of MySt posts for JM
+### Activities / tasks
+
+#### What did I do?
+* Intern issue #23 (3.5 hrs)
+* looking into student organizations to add to CLEAN list (2.5 hrs)
+* MySt file reviewing the comments & more research and drafting (4.5 hrs)
+* Read through JM comments about Git hub & make edits (0.5 hr)
+* Finalizing draft, adding links and preparing git hub draft (1.5 hrs)
+* Intern issue #14 
+* Talk with lilli about project clarifications (0.5 hrs)
+* Researching the affiliates (4 hrs)
+* Newsletter search for affiliates (1  hours)
+* Setup for BCEN (1.5 hrs)
+* BCEN Event (8 hours)
+* Intern Meeting with JK and KC (1 hr)
+* Start blog post for BCEN via BIDS (2 hrs)
+
+ GitHub Intern Log (1 hr)
+
+#### What will I do next week?
+* My available hours next week are 8, 8, 8 (remote), 8, 8.
+* Continue supporting whoever needs help with any projects. 
+
 # Tyler Hawthorne
 
 ## w/c 30 June 2025
