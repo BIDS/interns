@@ -1,6 +1,377 @@
 # Jamilah Karah
 
 
+## w/c 4 August 2025
+
+### Rose-bud-thorn
+
+#### 🌹
+* This week was the last time all the interns were here together, and it was just nice having everyone around, even though I was sometimes too busy to be there all day.
+
+#### 🌱
+* I'm looking forward to the hackathon next week, especially with the added context KW shared that makes it feel a lot more developmental.
+
+#### 🌵   
+* Reimbursement processes proved to be complicated (of course). 
+I met with MB to go over the steps and spent time researching the details, but there is still more to untangle before I can move forward confidently.
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Coordinated onboarding with new BIDMaP postdoc
+* Helped LWH with BIDS office assembly
+* Getting the process started for travel reimbursements for upcoming speaker
+* Reimbursements for AH
+
+#### Who helped me?
+* LWH & TH
+  * reviewed BCEN blog post draft
+* KW 
+  * Confirmed scheduling aims for CRELS/CSSTP
+* MB
+  * Clarified travel reimbursement process
+* KC
+  * Helped with office setup
+
+### Activities / tasks
+
+#### What did I do?
+##### CDSS / Interdisciplinary Coordination
+* Coordinated with future lecture speaker (1 hr)
+* Scheduled philanthropy meeting (2 hrs)
+* Coordinated cross-team meeting (2 hrs)
+* Met with MB on reimbursement process (1 hr)
+* Researched/ prepped reimbursement proccess and requirements (4 hrs) 
+* Two reimbursements for AH (1 hr)
+
+##### BIDMaP Coordination
+* Gave onboarding information to new BIDMaP postdoc (0.5 hr)
+* Gave onboarding information to new BIDMaP students (0.5 hr)
+* BIDMaP space logistics (2 hrs)
+* Set up BIDMaP space (5 hrs)
+* Scheduled and confirmed seminar speakers (2 hrs)
+* Organized speakers with their bio, picture, and title of talk (3 hrs)
+
+##### BIDS Coordination
+* Meeting to get a sense of Hackathons (1 hr)
+* Gave developer summit blog updates (1 hr)
+* Coordinated CRELS and CSSTP schedule (3 hrs)
+* Helped assemble new BIDS office furniture (2.5 hrs)
+* Shared BCEN blog post for review (1 hr)
+
+#### What will I do next week?
+* My available hours next week are 8, 8, 8, ~5, ~5.
+##### BIDS Coordination
+* Continue blog for Developer Summit
+* Outline notes from hackathon session
+* Follow up on CRELS and CSSTP scheduling survey
+* Continue seminar speaker scheduling
+* Provide new postdoc additional resources
+* Finalize BCEN blog post edits
+* Continue supporting LWH, KW, KC, and TH as needed
+
+
+## w/c 28 July 2025
+
+### Rose-bud-thorn
+
+#### 🌹
+* The BCEN Retreat was easily the highlight this week. It was energizing to see everyone in the same space, and the prep work leading up to it paid off. Getting to help shape the tone of the event felt really meaningful.
+
+#### 🌱
+* I'm looking forward to wrapping up the Scientific Python blog post. 
+
+#### 🌵   
+* I made a small mistake in an email to someone of high regard, misidentifying a third party. It wasn't a big issue, but these are the small things that matter to me.
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Supported organization and planning of the BCEN Retreat
+* Drafted and adjusted BCEN icebreakers
+* Coordinated meetings for AH and JB
+* Coordinating scheduling across CRELS/CSSTP
+* Contributed to planning for the Dean's Lecture
+* Submitted reimbursements for AH
+* Organized and shared notes from the retreat
+
+#### Who helped me?
+* AH
+  * Provided clarity on logistics for the Dean’s Lecture and reimbursements
+* LWH
+  * Shared insights and guidance on BIDMaP website updates
+* SJ and SC
+  * Collaborated on BCEN planning
+* TH and KC
+  * Helped with BCEN retreat 
+
+### Activities / tasks
+
+#### What did I do?
+##### CDSS / Interdisciplinary Coordination
+* Scheduling for potential funding meeting (2 hrs)
+* Coordinating meeting between JB and AH (0.5 hr)
+* CITRIS Awards overview (2 hrs)
+* AH Reimbursements (1.5 hrs)
+* Coordinating for upcoming Dean’s Lecture (3 hrs)
+* Potential funding endeavor meeting (0.5 hr)
+
+##### BIDMaP Coordination
+* Managing BIDMaP space (7 hrs)
+* BCEN Retreat (7 hrs)
+* Troubleshooting minor roadblocks in BIDMaP space (1 hr)
+* BIDMaP space inventory (2.5 hrs)
+* Preparing for BCEN and setting up (3 hours)
+* Submitting access request for BIDMaP spaces (included in above)
+* BIDMaP website editing inquiries (0.5 hr)
+* BCEN notes consolidation (1 hr)
+* Creating BIDMaP namecards (1 hr)
+
+##### BIDS Coordination
+* Finish drafting Scientific Python Summit blog (3 hrs)
+* CRELS/CSSTP Scheduling (1 hr)
+* CRELS/CSSTP Website Update (1 hr)
+
+#### What will I do next week?
+* My available hours next week are 8, 7, 8, 8, 8.
+##### BIDS Coordination
+* Finalize and submit the Scientific Python blog
+* Follow up on namecard signage needs for BIDMaP
+* Prepare for upcoming funding and awards-related meetings
+* Coordinate Dean's Lecture speaker logistics
+* Check in on transcription and blog for BCEN
+* Touch base on CRELS/CSSTP website edits and meeting scheduling
+* Continue supporting LWH, KW, KC, and TH as needed
+
+
+## w/c 21 July 2025
+
+### Rose-bud-thorn
+
+#### 🌹
+* Working on icebreakers for the BCEN retreat was a highlight.
+  It gave me a chance to be both creative and thoughtful, and it felt good to design something small that could help set the tone for a welcoming and energizing event.
+
+#### 🌱
+* I'm excited to write a post about the Scientific Python event, especially the statistics portion, because Python isn’t usually easily aligned with stats work.
+  It feels important and surprisingly approachable for me.
+
+#### 🌵   
+* The milk delivery troubleshooting hit a wall this week. We put in time coordinating with ERSO and testing ideas, but the process ended in another dead end.
+  It's a little frustrating to still not have a fix after multiple rounds of effort.
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Coordinated with SJ and SC on retreat planning
+* Refined and updated BIDMaP contact list for DR
+* Managed nameplates and other updates on the BIDMaP floor
+* Completed reimbursement for SvW
+
+#### Who helped me?
+* LWH
+  * Provided guidance for website edits and reviewed the seminar insights graph
+* TH
+  * Joined the seminar insights review and offered feedback
+* AH
+  * Shared context and next steps around a potential future funding event
+* AW
+  * Met to explore procurement options related to milk delivery logistics
+* LJ 
+  * Confirmed the coordination of multiple meetings this week
+
+### Activities / tasks
+
+#### What did I do?
+##### CDSS / Interdisciplinary Coordination
+* Emailing DC about the characteristics of the future BIDMaP space (1.5 hr)
+* Meeting with AH to discuss future funding event (2 hrs)
+* Check in with AH about various follow-up opportunities (2 hrs)
+* Reviewing recent updates to relevant legislation (1.5 hrs)
+* Drafting and reviewing previous emails to stay in the loop and be ready to provide updates (2 hrs)
+* Coordinating meeting with AH and JC (0.5 hr)
+
+##### BIDMaP Coordination
+* Refined contact list for BIDMaP (2.5 hrs)
+* Maintained BIDMaP space (5 hrs)
+* Figuring out and updating nameplates on the BIDMaP floor (2 hrs)
+* Delivery troubleshooting (3 hrs)
+* Updating onboarding resources for new BIDMaP affiliates (2 hrs)
+* Meeting with AW (ERSO Procurement) about potential deliveries (1.5 hrs)
+* Working on icebreakers for upcoming BCEN Retreat (2 hrs)
+* Coordination meeting and follow-up for BCEN with SJ and SC (2 hrs)
+
+##### BIDS Coordination
+* Meeting for comms work from Scientific Python Convention (1.5 hrs)
+* Readthrough of Statistics portion of Scientific Python Convention write-up (1.5 hr)
+* Reimbursement for SvW (1 hr)
+* Seminar insights graph review with LWH and TH (1 hr)
+* Schedule coordination of CRELS and CSSTP weekly meeting (1.5 hrs)
+* Website editing instructions from LWH (1 hr)
+* Updating/ organizing shared files (0.5 hr)
+* Drafting activity tracker (1 hr)
+
+#### What will I do next week?
+* My available hours next week are 8, 8, 8, 8, 8.
+##### BIDS Coordination
+* Write up draft for Scientific Python comms write-up
+* Follow up on communications for funding commitments
+* Support coordination for the funding opportunity (separate from above)
+* Follow up on future speaker coordinations
+* Reimbursement for AH
+* Survey and log all materials in BIDMaP space
+* CRELS/ CSSTP scheduling survey to be sent out
+* Continue BCEN retreat prep and collab
+* Continue supporting LWH, KW, KC, and TH as needed
+
+
+## w/c 14 July 2025
+
+### Rose-bud-thorn
+
+#### 🌹
+* Looking through BIDS-related research exposed me to some nuanced ways AI and data are being used as problem solvers.
+  It was interesting to see how different projects define their impact, and it gave me a more diverse understanding of the roles these tools can play across disciplines.
+
+#### 🌱
+* We've been experimenting with different ways of formatting seminar insights, but still figuring out what's most useful to highlight and how to balance detail with clarity.
+
+#### 🌵   
+* Nothing stood out as especially frustrating this week.
+  Instead of reaching for something to critique, I'm taking it as a good sign that the week felt balanced and steady.
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Continued organizing BIDMaP contacts and assisted with email prep
+* Maintained the BIDMaP space and worked on the seminar insights
+* Participated in the JupyterHub/Binder/Book Collab Café
+* Worked with the interns and contributed to the OSPO blog draft
+
+#### Who helped me?
+* LWH
+  * Helped with editing OSPO post
+  * Clarified details for DS and AI news bits
+  * Answered questions about Photoshelter upload
+* KW
+  * Led intern sync and provided clarity around some of the ongoing tasks
+* TH
+  * Collaborated on seminar insights and project descriptions
+* TH and KC
+  * Provided input on their current role to support a future job description draft
+
+### Activities / tasks
+
+#### What did I do?
+##### CDSS / Interdisciplinary Coordination
+* Email about AIAS (0.5 hr)
+* Grant summary (1 hr)
+* Compliance troubleshooting (1.5 hrs)
+* Invitation email prep (1.5 hr)
+
+##### BIDMaP Coordination
+* Organizing BIDMaP contacts (3 hr)
+* Space maintenance (5 hrs)
+* Budget work (1.5 hr)
+* Email prep and drafting (2 hr)
+* Managing operational adjustments  (3 hrs)
+
+##### BIDS Coordination
+* OSPO blog publishing work (1.5 hr)
+* Chat with Laura about OSPO (1 hr)
+* Searching for BIDS research/projects (2 hrs)
+* BIDS job description drafting (2 hr)
+* JupyterHub/Binder/JupyterBook Collab Cafe (2 hrs)
+* Weekly meeting with Kirstie & BIDS interns (1.5 hrs)
+* Photoshelter upload (2 hrs)
+* BIDS activity log (1 hr)
+* Seminar insights work (1.5 hrs)
+
+#### What will I do next week?
+* My available hours next week are 8, 8, 8, 8, 8.
+##### BIDS Coordination
+* Finish BIDMaP contacts list
+* Present seminar findings
+* Follow up with SciComm presentation sharing
+* Handle reimbursements
+* Work on BIDMaP technical tasks
+* Continue supporting LWH, KW, KC, and TH as needed
+
+
+## w/c 7 July 2025
+
+### Rose-bud-thorn
+
+#### 🌹
+* Writing up insights from the seminar series was fun! 
+  I used code to surface patterns in the data, which I haven't done in a while outside of organizational tasks. 
+  It felt nice to apply those skills toward something reflective and analytical.
+
+#### 🌱
+* The OSPO Meetup sparked some ideas/possibilities about broader cross-campus collaborations. 
+  I'm still getting my bearings on how these kinds of relationships and meetings typically move forward, but it was helpful to get an initial look into what's happening in that space.
+
+#### 🌵   
+* After more than two years of searching for a way to automate buying perishable goods, I may have finally come across a promising lead. 
+  But the person who knows more hasn't responded yet, so while I'm hopeful, the wait has definitely made this feel like a bit of a thorn.
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Shared initial outreach materials and background prep for two upcoming meetings
+* Wrote up attendance insights from recent seminars
+* Participated in and supported SciComm Series posts
+* Coordinated and debriefed with TH after intern sync
+
+#### Who helped me?
+* LWH
+  * Helped walk through attendance insight goals and shared expectations
+  * Gave advice and helped edit the blog posts
+* TH
+  * Gave feedback on intern meeting flow and discussed shared coordination
+* AH
+  * Met to discuss several open items
+* KW
+  * Guidelines with the OSPO post and feedback for quotes to be used
+
+### Activities / tasks
+
+#### What did I do?
+##### CDSS/ Interdisciplinary Coordination
+* AIAS meeting and recap (1.5 hrs)
+* Background and outreach for two meetings (1.5 hrs)
+* Gateway tour (1.5 hrs)
+* Background research for a potential speaker (1 hr)
+
+##### BIDMaP Coordination
+* Maintaining BIDMaP space (5 hrs)
+* Problem solved to find a way to automatically buy products (1 hr)
+* Meeting with AH (1.5 hrs)
+
+##### BIDS Coordination
+* OSPO Meetup (1.5 hrs)
+* OSPO blog writing (1.5 hrs)
+* BIDS weekly intern meeting (2 hrs)
+* Post-intern meeting check-in with TH (1 hr)
+* BIDS activity log (1 hr)
+* SciComm Series participation (3.5 hrs)
+* Writing SciComm articles (2.5 hrs)
+* Seminar attendance insights write-up (5 hrs)
+* Meeting with LWH to go over attendance insight goals (0.5 hr)
+* Photoshelter outreach (0.5 hr)
+* Boba social (2 hrs)
+
+#### What will I do next week?
+* My available hours next week are 8, 8, 8, 8, 8.
+##### BIDS Coordination
+* Finish Photoshelter project
+* Publish draft for OSPO blog
+* Tie up loose ends for logistics in BIDMaP space
+* Keep an eye on coordination for the upcoming meeting with CDSS
+* Finish code for BIDS seminar attendance insights
+* Continue supporting LWH, KW, KC, and TH as needed
+
+
 ## w/c 30 June 2025
 
 ### Rose-bud-thorn
