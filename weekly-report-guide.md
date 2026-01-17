@@ -1,4 +1,36 @@
-# weekly-report-template (with examples)
+# A guide to BIDS Weekly Report
+
+#### This guide is designed to help you navigate your weekly reporting, which is essential for tracking project progress, identifying areas where you need support, and maintaining clear communication with the team. 
+
+#### Below, you will find the steps to create and update your report, templates to refer to, and a legend to guide you.
+
+
+
+# Steps to create and update your report
+
+### Initial Setup
+
+* Create **one** file in the repository (BIDS / interns) named `weekly-report-[your-name].md` 
+* This single file will serve as your log for the **entire duration** of your internship.
+
+### Weekly Update 
+
+
+* Create a Branch: Do not edit the `main` branch directly. Each week, create a new branch named `report-[your-name]-[date]`.
+* Edit your file: Add your new entry to the **top** of your `weekly-report-[your-name].md` file.
+* Commit & Push: Save your changes with a clear message (e.g., "Add weekly report for XX Aug 11").
+* Open a Pull Request (PR): Open a new PR to merge your branch into `main`.
+* Merge: Once your supervisor has seen the report and left any necessary comments, the PR will be merged, and the process starts over the following week.
+
+
+
+
+# Templates
+
+#### Please read the example below for guidance on detail, then refer to the Clean Template into your personal report file to begin your weekly entry.
+
+## Template (with examples):
+
 
 # [Your Name]
 
@@ -47,7 +79,8 @@
 
 ---------------------------------------------------------------------------------------
 
-# weekly-report-template (clean)
+## Template (clean):
+
 
 # [Your Name]
 
@@ -91,8 +124,6 @@
 
 
 
-
----------------------------------------------------------------------------------------
 
 # Legend
 
@@ -150,4 +181,3 @@ This is the legend of the templates for the weekly reports that the BIDS interns
   * and there are also [!IMPORTANT] [!WARNING] [!CAUTION]
 * Ignoring the github markdown formattings: use a backlash \ before the markdown character.
 * This syntax legend is adapted from (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#ignoring-markdown-formatting); credit to the original source 👍.
-
