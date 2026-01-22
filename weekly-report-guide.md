@@ -10,7 +10,7 @@
 
 ### Initial Setup
 
-* Create **one** file in the repository (BIDS / interns) named `weekly-report-[your-name].md` 
+* Create **one** file in the repository (BIDS / interns) named `[last name]-[first initial].md` 
 * This single file will serve as your log for the **entire duration** of your internship.
 
 ### Weekly Update 
