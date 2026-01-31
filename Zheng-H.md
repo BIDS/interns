@@ -6,7 +6,8 @@
 ### Rose-bud-thorn
 
 #### 🌹
-* This week I got access to editing the webpage  contents for BIDS, and learnt to navigate the tools with LH's help. Excited for future tasks on this.
+* This week I got access to editing the webpage  contents for BIDS, and learnt to navigate the tools with LH's help.
+  Excited for future tasks on this.
   
 #### 🌱
 * I'm looking forward to the Jupyter Health Team Retreat event next week.
