@@ -9,7 +9,9 @@
 * This week I got access to editing the webpage  contents for BIDS, and learnt to navigate the tools with LH's help. Excited for future tasks on this.
   
 #### 🌱
-* I'm looking forward to the Jupyter Health Team Retreat event next week. This will be the first event that I'll be helping out at BIDS!
+* I'm looking forward to the Jupyter Health Team Retreat event next week.
+  This will be the first event that I'll be helping out at BIDS!
+
 #### 🌵   
 * LWH and I worked on creating a google intake form to collect guests' info, but google form has this painful restriction of gmail log-ins to allow file uploading, which makes it hard for us to accomodate to guests who don't use gmail.  
 
