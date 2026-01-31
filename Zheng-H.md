@@ -6,7 +6,7 @@
 ### Rose-bud-thorn
 
 #### 🌹
-* This week I got access to editing the webpage  contents for BIDS, and learnt to navigate the tools with LH's help.
+* This week I got access to editing the webpage contents for BIDS, and learnt to navigate the tools with LH's help.
   Excited for future tasks on this.
   
 #### 🌱
@@ -14,7 +14,7 @@
   This will be the first event that I'll be helping out at BIDS!
 
 #### 🌵   
-* LWH and I worked on creating a google intake form to collect guests' info, but google form has this painful restriction of gmail log-ins to allow file uploading, which makes it hard for us to accomodate to guests who don't use gmail.  
+* LWH and I worked on creating a google intake form to collect guests' info, but google form has this painful restriction of gmail log-ins to allow file uploading, which makes it hard for us to accommodate to guests who don't use gmail.  
 
 ### 🤝 Reciprocal support
 
