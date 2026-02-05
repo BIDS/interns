@@ -1,6 +1,46 @@
 # Saumya Lohia
 
 
+## w/c 2 February 2026
+
+### Rose-bud-thorn
+
+#### 🌹
+* Finally feel like I am getting into a routine with class, GSIing, and working here!
+
+#### 🌱
+* A lot of fun things coming up this weekend.
+
+#### 🌵   
+* Things taking longer than they seem like they should.
+For example, updating the signage and finding links for the speakers from the CLEAN events took much longer than I expected.
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Helped out for set up at the Jupyter Health workshop.
+
+#### Who helped me?
+* HZ reviewed my blog post for the CLEAN event.
+* LH showed me how to edit the Events page and update the Google Calendar events with rooms.
+
+### Activities / tasks
+
+#### What did I do?
+
+##### BIDS Coordination
+* Continued editing the blog post for the CLEAN event.
+* Updated AIFL signage with all the new events coming up!
+* Learned how to update the Events page on the website - not very intuitive!
+
+#### What will I do next week?
+
+##### BIDS Coordination
+* Send draft of CLEAN blog post to event coordinators for review.
+* See if we can set up the new Mac in the Seminar room.
+* Continue updating events on Google Calendar with the proper rooms.
+
+
 ## w/c 26 January 2026
 
 ### Rose-bud-thorn
