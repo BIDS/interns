@@ -9,7 +9,8 @@ assignees: ''
 # BIDS Blog Post Instructions
 
 - [ ] Create and save your draft in [this folder](https://drive.google.com/drive/folders/14MWOyLiFzHVEw46btOvCr-KOFSFD14uC?usp=drive_link)
-- [ ] Consider the purpose of the event or project and the impact we want it to have, and incorporate it into blog/story. Ask if you are unsure of the purpose
+- [ ] Consider the purpose of the event or project and the impact we want it to have, and incorporate it into blog/story. Consider the BIDS [mission / vision](https://bids.berkeley.edu/about/directors-vision-2024) and connect as best you can.
+    * Ask if you are unsure of the purpose
 - [ ] Include a few section headlines - example [here](https://bids.berkeley.edu/news/jupytercon-and-next-100-programming-systems)
 - [ ] Add a quote from the speaker and a testimonial from a guest/attendee whenever possible. Ask if you are unsure of who could give a nice testimonial
 - [ ] Welcoming, warm, and informative tone
