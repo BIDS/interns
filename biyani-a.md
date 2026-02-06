@@ -17,7 +17,7 @@
 * Creating a news content item on the BIDS website can be a bit challenging when it comes to formatting. 
   It's important to make sure that no extra HTML tags are created when copy-pasting content.
   I am still exploring ways to paste content directly as plain text.
-A big thank you to LWH for helping me understand the process! 
+  A big thank you to LWH for helping me understand the process! 
 
 ### 🤝 Reciprocal support
 
