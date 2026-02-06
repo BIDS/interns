@@ -1,6 +1,56 @@
 # Hazel Zheng
 
 
+## w/c 2 February 2026
+
+### Rose-bud-thorn
+
+#### 🌹
+* LWH and I found a solution for the file uploading problem using dropbox.
+* My friends had a great time calling me out for the intern's linkedin post.
+  
+#### 🌱
+* I had a lot of fun editing the AGU2025 blog post for MF, and am looking forward to putting it on the BIDS website.
+
+#### 🌵   
+* First time drafting a blog post, and it took me some time to research on the event.
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Reviewed blog post draft for SL.
+* Summarized the weekly meeting to VG.
+
+#### Who helped me?
+* MF
+  * Reviewed and gave suggestions on the AGU2025 blog post.
+
+### Activities / tasks
+
+#### What did I do?
+
+##### BIDS Coordination
+* Added more info and photos to the AIFL info Deck (1.5 hrs).
+* Drafted parts of the AGU2025 Blog Post (3 hrs).
+* Sent emails to request electronic signitures for speaker release and uploade to google drive after receiving (2 hrs).
+* Reviewed SL's blog draft (0.1 hrs).
+* Summarized contents of the weekly meeting to VG (0.4 hrs)
+* Booked a restaurant for an event (0.3 hrs).
+* Found alternative to the Google Form File Uploading issue (1.5 hrs).
+* Assisted Jupyter Health Retreat
+
+#### What will I do next week?
+* My available hours next week are:
+  * Tue, 12:45pm to 3:30pm (Full)
+  * Thur, 12:45pm to 3:30pm (Full)
+  * Fri, 12pm to 5pm (Full)
+
+##### BIDS Coordination
+* Design a sign for the SDH suite
+* Edit the AGU2025 blog post on the website
+
+---------------------------------------------------------------------------------------
+
 ## w/c 26 January 2026
 
 ### Rose-bud-thorn
