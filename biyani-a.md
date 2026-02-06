@@ -10,7 +10,8 @@
   Reflecting back, learning the process of drafting a BIDS blog post including revisions and final publication was awesome!  
 
 ####🌱 Bud
-* I'm looking forward to helping host the Jupyter Health team retreat next week! I am excited to meet the team. 
+* I'm looking forward to helping host the Jupyter Health team retreat next week!
+  I am excited to meet the team. 
 
 #### 🌵 Thorn
 * Creating a news content item on the BIDS website can be a bit challenging when it comes to formatting. 
