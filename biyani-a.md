@@ -9,7 +9,7 @@
   I have finished my first rough draft for the Waller Lab paper Blog post. 
   I am working on getting it reviewed and will continue to make more edits.  
 
-####🌱 Bud
+#### 🌱 Bud
 * I'm looking forward to continuing to work on assigned tasks and helping host future events!  
 
 #### 🌵 Thorn
@@ -51,7 +51,7 @@
   I am wrapping up the Walsh blog post and transferring content into a news article on the BIDS website. 
   Reflecting back, learning the process of drafting a BIDS blog post including revisions and final publication was awesome!  
 
-####🌱 Bud
+#### 🌱 Bud
 * I'm looking forward to helping host the Jupyter Health team retreat next week!
   I am excited to meet the team. 
 
