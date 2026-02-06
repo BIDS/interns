@@ -42,3 +42,7 @@
 * Understood how to create content & news items in the BIDS website with LWH and currently transferring content (2 hrs)
  - Note: This took a bit longer since I was experimenting with the formatting to ensure the plain text stays consistent 
 * Took notes and started drafting Waller Lab Paper Blog post (0.5 hr)
+
+#### What will I do next week
+* Work on Waller Lab paper blog post 
+* Help with event preparation and or Jupyter Health team retreat!
