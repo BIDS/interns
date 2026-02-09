@@ -18,9 +18,13 @@ assignees: ''
 - [ ] Close with a call to action (CTA) - some options:
     - General: "To stay in touch with the BIDS community and join the conversation, please visit follow us on [Bluesky](https://bsky.app/profile/ucbids.bsky.social) & [LinkedIn](https://www.linkedin.com/company/berkeley-institute-for-data-science-bids-/) and subscribe to the [BIDS newsletter](https://bids.berkeley.edu/join/mailing-lists)."
     - Specific to Cultural Analytics: "To stay in touch and join these far-ranging conversations of critical cultural importance, please join our Cultural Analytics mailing list by [visiting this page](https://groups.google.com/a/lists.berkeley.edu/g/bids-cultural-analytics/about) or emailing bids-cultural-analytics+subscribe@lists.berkeley.edu."
+- [ ] Linking People/Orgs: Add links to people, orgs, and tools mentioned.
+   - Use LinkedIn for most people (if up-to-date).
+   - For UC Berkeley faculty, always prioritize linking to their official UC Berkeley website page.
 - [ ] Add links to people, orgs, and tools mentioned in the blog
 - [ ] Add a few photos or other related graphics
-    - Size to 768px wide, 144dpi
+    - Size to 768 x 512, 144dpi
+    - for the Feature Image, if possible and if it looks good, add a 1 px border to the image with color Berkeley Blue, Hex 002676
     - Crop and adjust the lighting as needed
     - Ask for help if needed
 - [ ] Add Photo Descriptions and Alt Text to the draft
@@ -30,6 +34,8 @@ assignees: ''
 # Elements of a BIDS Social Media Post
 (add instructions from [this doc](https://docs.google.com/document/d/19NmU65vmNijSVbS0Lx4ibo8WWMjWCpSZTuyn-Gl7Q18/edit?pli=1&tab=t.l7bddjuhnawf))
 - [ ] Include a link to photo/image from the blog that you think is best for the social media post
+- [ ] Add a direct link to the Feature Image on this tab.
+- [ ] Note: Find this link by navigating to Dashboard > Files (ex: https://bids.berkeley.edu/file/768 -> this is found by navigating to Dashboard > Files)
 
 # Process
 
@@ -40,3 +46,9 @@ assignees: ''
 - [ ] After all approvals have been received, add the blog as a News item to the website
 - [ ] Save but do not publish – add the URL link to the corresponding GitHub issue
 - [ ] Lilli will publish the News items on the website and post on social media
+
+
+# How to update/edit template:
+- [ ] Open file /ISSUE_TEMPLATE
+- [ ] Click the Pencil icon to edit.
+- [ ] Commit the changes directly to your main branch.
