@@ -26,7 +26,7 @@
 * JK
   * Helped walk through how to set-up the AV
 * KW
- * Helped connect me to Stefan and Henry
+  * Helped connect me to Stefan and Henry
 
 ### Activities / tasks
 
