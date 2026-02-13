@@ -46,7 +46,7 @@
   * Fri, 12pm to 5pm (Full)
 
 ##### BIDS Coordination
-* Draft STRUDEL blog post
+* Draft STRUDEL blog post.
 
 ---------------------------------------------------------------------------------------
 
