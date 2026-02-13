@@ -8,9 +8,9 @@
 * Published the Walsh blog post! Thank you to LWH and SL for revising the draft!  
 
 #### 🌱 Bud
-* Looking forward to having all the components of the Waller Lab Paper Blog post come together 
-  Currently, I am re-writing the post to factor in the use of open-source tools & tie it back to the mission of BIDS - especially focusing on scikit-image. 
-  I got some quotes & commentary from Stefan and I hope to meet with Henry next week! Thanks KW for connecting me!
+* Looking forward to having all the components of the Waller Lab Paper Blog post come together. 
+  * Currently, I am re-writing the post to factor in the use of open-source tools & tie it back to the mission of BIDS - especially focusing on scikit-image. 
+  * I got some quotes & commentary from Stefan and I hope to meet with Henry next week! Thanks KW for connecting me!
 
 #### 🌵 Thorn
 * Setting up the AV - but thanks to LWH and JK for helping!  
