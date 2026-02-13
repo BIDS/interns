@@ -1,5 +1,56 @@
 # Ankita Biyani
 
+## w/c 9 February 2026
+
+### Rose-bud-thorn
+
+#### 🌹Rose
+* Published the Walsh blog post! Thank you to LWH and SL for revising the draft!  
+
+#### 🌱 Bud
+* Looking forward to having all the components of the Waller Lab Paper Blog post come together 
+  Currently, I am re-writing the post to factor in the use of open-source tools & tie it back to the mission of BIDS - especially focusing on scikit-image. 
+  I got some quotes & commentary from Stefan and I hope to meet with Henry next week! Thanks KW for connecting me!
+
+#### 🌵 Thorn
+* Setting up the AV - but thanks to LWH and JK for helping!  
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* LWH with opening and closing event guidelines for BIDS interns (released on AI Futures Lab venue info Google Drive folder)  
+
+#### Who helped me?
+* LWH
+  * Helped me understand event preparation opening and closing details
+* JK
+  * Helped walk through how to set-up the AV
+* KW
+ * Helped connect me to Stefan and Henry
+
+### Activities / tasks
+
+#### What did I do?
+* Published the Walsh blog post on the BIDS website (1 hr)
+* Re-drafting Waller Lab Paper Blog post (1 hr)
+  * Worked on getting a quote from Stefan and understanding more about scikit-image for the Waller Lab paper blog post 
+  * Will be meeting Henry to understand why his team used it in their paper
+* Helping with Strudel event earlier this week (letting people in and out) (2 hrs) 
+* Revised Hazel's AGU2025 blog post (awesome!) (1 hr)
+* Published opening and closing event guidelines document (0.5 hr)
+* Setting up the AV (0.5 hr)
+
+#### What will I do next week
+* Meet with Henry to understand why the Waller Lab used scikit-image for their paper
+* Create a refined draft on the Waller Lab paper blog post (connect Stefan and Henry's vision to BIDS purpose)
+* Finish any other action items needed
+
+
+#### Questions/clarifications/comments
+* Clarification: Hazel is covering the Strudel event blog post (github issue also assigned). 
+* Kirstie brought up coding in Django - I'm happy to learn more! 
+
+
 ## w/c 2 February 2026
 
 ### Rose-bud-thorn
