@@ -43,6 +43,7 @@
 #### What will I do next week
 * Meet with Henry to understand why the Waller Lab used scikit-image for their paper
 * Create a refined draft on the Waller Lab paper blog post (connect Stefan and Henry's vision to BIDS purpose)
+* IMPORTANT: Create social media post for Walsh blog post & make sure fully published 
 * Finish any other action items needed
 
 
