@@ -1,5 +1,46 @@
 # Saumya Lohia
 
+## w/c 9 February 2026
+
+### Rose-bud-thorn
+
+#### 🌹
+* Made it to puppy yoga last weekend!
+* Getting to see so many people at AIFL (+ lots of free food after the event on Tuesday!)
+
+#### 🌱
+* Excited to get another blog post out soon!
+
+#### 🌵   
+* Nothing at the moment!
+
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Helping out at STRUDEL event.
+* Reviewed YL's blog post.
+
+#### Who helped me?
+* TS (CLEAN) reviewing the CLEAN blog post.
+
+### Activities / tasks
+
+#### What did I do?
+
+##### BIDS Coordination
+* Continued editing the blog post for the CLEAN event.
+* Updated all the Google Calendar events with the proper rooms.
+* Updated the website Events pages with all the new upcoming Cultural Analytics events.
+* Letting people in for the STRUDEL event.
+* Started organizing the storage room.
+
+#### What will I do next week?
+
+##### BIDS Coordination
+* Publish CLEAN blog post.
+* Continue setting up new Mac?
+
 
 ## w/c 2 February 2026
 
