@@ -1,5 +1,6 @@
 # Hazel Zheng
 
+
 ## w/c 9 February 2026
 
 ### Rose-bud-thorn
@@ -14,6 +15,7 @@
 #### 🌵   
 * Realized that the way I approached the AGU blog was not desirable.
   But learned from KW the ideal mindset and ways to improve so I can do better on the next post.
+* Had trouble creating a PR because I edited the new weekly report on the approved but not merged PR.
 
 ### 🤝 Reciprocal support
 
