@@ -1,6 +1,5 @@
 # Hazel Zheng
 
-
 ## w/c 16 February 2026
 
 ### Rose-bud-thorn
@@ -31,9 +30,9 @@
 #### What did I do?
 
 ##### BIDS Coordination
-* Finish up with AGU25 blog: contacted the scientists mentioned, made a few more changes, edited on website) (1.5 hrs)
-* Wrote social media posts for the blog (1 hr)
-* Strudel blog post (2 hrs)
+* [#64](https://github.com/BIDS/interns/issues/64) Finish up with AGU25 blog: contacted the scientists mentioned, made a few more changes, edited on website) (1.5 hrs)
+  * Wrote social media posts for the blog (1 hr)
+* [#83](https://github.com/BIDS/interns/issues/83) Strudel blog post (2 hrs)
 * Event assistance and AV set up
 
 #### What will I do next week?
@@ -44,9 +43,6 @@
 
 ##### BIDS Coordination
 * Continue working on the STRUDEL blog post
-
----------------------------------------------------------------------------------------
-
 
 ## w/c 9 February 2026
 
