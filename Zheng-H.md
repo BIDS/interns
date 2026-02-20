@@ -1,6 +1,53 @@
 # Hazel Zheng
 
 
+## w/c 16 February 2026
+
+### Rose-bud-thorn
+
+#### 🌹
+* It's great to see so many events happening at AIFL and I feel that I getting used to helping the events go smoothly.
+* Also got to chat a bit with MF when doing a mic test ^^.
+  
+#### 🌱
+* My friend's visiting and I'm taking her to SF tomorrow!
+
+#### 🌵   
+* It took longer than expected to set up the AV on Thursday.
+  But I've learnt the way to do it!
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Helped LWH proofread the annual report.
+* Assisted events.
+
+#### Who helped me?
+* KW, LWH, MF
+  * Helped review the AGU25 blog post again.
+
+### Activities / tasks
+
+#### What did I do?
+
+##### BIDS Coordination
+* Finish up with AGU25 blog: contacted the scientists mentioned, made a few more changes, edited on website) (1.5 hrs)
+* Wrote social media posts for the blog (1 hr)
+* Strudel blog post (2 hrs)
+* Event assistance and AV set up
+
+#### What will I do next week?
+* My available hours next week are:
+  * Tue, 12:45pm to 3:30pm (Full)
+  * Thur, 12:45pm to 3:30pm (Full)
+  * Fri, 12pm to 5pm (Full)
+
+##### BIDS Coordination
+* Continue working on the STRUDEL blog post
+
+---------------------------------------------------------------------------------------
+
+
 ## w/c 9 February 2026
 
 ### Rose-bud-thorn
