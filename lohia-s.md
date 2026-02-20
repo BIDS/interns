@@ -1,5 +1,47 @@
 # Saumya Lohia
 
+## w/c 15 February 2026
+
+### Rose-bud-thorn
+
+#### 🌹
+* Connecting things I'm learning in class to work at BIDS - like creating a database to organize information, potentially creating data visualizations.
+
+#### 🌱
+* Excited to work more on the CRM project + thinking of sustainability in the long term.
+* Thinking more about potential career paths.
+
+#### 🌵   
+* Feeling like I'm still trying to crack internship applications.
+
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Starting on the CRM project with KW.
+* Reading the annual report draft with LH.
+
+#### Who helped me?
+* LH helping with photo edits for the CLEAN blog post.
+* YL and I spent a few minutes on Tuesday organizing the storage room.
+
+### Activities / tasks
+
+#### What did I do?
+
+##### BIDS Coordination
+* Finished edits on CLEAN blog post and created draft on website, and social media posts.
+* Reading annual report out loud + catching some errors.
+* Organized storage room.
+* Started on CRM database project.
+
+#### What will I do next week?
+
+##### BIDS Coordination
+* Continue working on setting up CRM database!
+* Thinking of a comms calendar + intern guide
+
+
 ## w/c 9 February 2026
 
 ### Rose-bud-thorn
