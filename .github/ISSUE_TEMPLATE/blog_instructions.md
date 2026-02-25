@@ -33,6 +33,8 @@ assignees: ''
 
 # Elements of a BIDS Social Media Post
 (add instructions from [this doc](https://docs.google.com/document/d/19NmU65vmNijSVbS0Lx4ibo8WWMjWCpSZTuyn-Gl7Q18/edit?pli=1&tab=t.l7bddjuhnawf))
+- [ ] **Featured Image:** Use the [Featured Image Template in Google Slides](https://docs.google.com/presentation/d/17HyCHBVEh9_huffHeTenG6b6bx3wbH63FkRVESH7eu0/edit?usp=sharing) to create your Featured Image graphic. 
+- [ ] Add the finished Featured Image to the **Social Media tab** of your draft doc for easy access.
 - [ ] Include a link to photo/image from the blog that you think is best for the social media post
 - [ ] Add a direct link to the Feature Image on this tab.
 - [ ] Note: Find this link by navigating to Dashboard > Files (ex: https://bids.berkeley.edu/file/768 -> this is found by navigating to Dashboard > Files)
