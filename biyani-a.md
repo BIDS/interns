@@ -1,5 +1,48 @@
 # Ankita Biyani
 
+## w/c 23 February 2026
+
+### Rose-bud-thorn
+
+#### 🌹Rose
+* Done with midterms (for now)!   
+
+#### 🌱 Bud
+* Working on the OSPO Feb meetup blog - excited to release it! 
+
+#### 🌵 Thorn
+* Setting up the AV - but was able to troubleshoot!
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* BIDS Intern team with the AV setup for weekly Friday intern meetings 
+* LWH with event prep for the Jupyterhub Roadmap workshop
+
+#### Who helped me?
+* LWH and SL
+  * Helped me with action items 
+* JK
+  * Helped me navigate my work schedule 
+
+### Activities / tasks
+
+#### What did I do?
+* Event preparation this week (1 hr)
+* Setting up the AV & tech support (0.5 hr)
+* Writing up the OSPO Feb meetup blog post (2 hr)
+* Helping out SL with some github tasks such as catering for a group (0.5 hr)
+* Had some conflicts this week so shorter shifts 
+
+#### What will I do next week
+* Meet with JM to potentially get a quote for OSPO feb meetup if needed 
+* Finish up the OSPO Feb meetup blog post
+
+#### My availability
+* Fridays 10 am - 12 pm and 12 pm - 1 pm
+* Tuesdays or Thursdays from 10:30 AM to 12:30 PM 
+
+
 ## w/c 16 February 2026
 
 ### Rose-bud-thorn
