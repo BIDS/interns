@@ -1,5 +1,45 @@
 # Saumya Lohia
 
+## w/c 23 February 2026
+
+### Rose-bud-thorn
+
+#### 🌹
+* Spent a lot of time with friends this week and went to trivia with some classmates on Wednesday.
+
+#### 🌱
+* Going to Six Flags this weekend!
+
+#### 🌵   
+* Nothing this week!
+
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Reviewing HZ's blog post for STRUDEL.
+
+#### Who helped me?
+* AB helping scout restaurants for March 15.
+
+### Activities / tasks
+
+#### What did I do?
+
+* Called restaurants to find spaces for the dinner on March 15.
+* Drafted a mini-interview Q&A with MM.
+* Created a json template for individuals for BIDS CRM project.
+
+#### What will I do next week?
+
+* Start populating CRM database?
+* Thinking of developing an intern guide?
+
+* My available hours next week are:
+  * Mon, 11:45am-1:45pm
+  * Tues, 9-11am and 3-5pm
+  * Thurs, 9-11am
+
 ## w/c 15 February 2026
 
 ### Rose-bud-thorn
