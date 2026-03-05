@@ -1,5 +1,46 @@
 # Saumya Lohia
 
+## w/c 2 March 2026
+
+### Rose-bud-thorn
+
+#### 🌹
+* CLEAN blog post was published!
+
+#### 🌱
+* Feeling pretty caught up on schoolwork and looking forward to the weather this weekend.
+
+#### 🌵   
+* Law midterm coming up soon!
+
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Nothing of note this week.
+
+#### Who helped me?
+* LH revising the social media posts for CLEAN - getting a better idea of what is important for those!
+
+### Activities / tasks
+
+#### What did I do?
+
+* Editing CLEAN blog post social media drafts. (0.5ish hours)
+* Curating photos from old Drive to move over. (2 hours)
+* Learning about JupyterHub, attending the event, and starting the blog post. (3 hours)
+* Assisting with Cultural Analytics event with BS. (2 hours)
+
+#### What will I do next week?
+
+* Work on OSPO Monthly Knowledge share blog post.
+* Collaborate with HZ to write Cultural Analytics blog post.
+
+* My available hours next week are:
+  * Mon, 12:15pm-1:45pm
+  * Tues, 3-4pm
+  * Thurs, 9-12pm
+
 ## w/c 23 February 2026
 
 ### Rose-bud-thorn
