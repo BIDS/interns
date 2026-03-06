@@ -1,5 +1,45 @@
 # Ankita Biyani
 
+## w/c 2 March 2026
+
+### Rose-bud-thorn
+
+#### 🌹Rose
+* Looking forward to the OSPO events coming up this month!    
+
+#### 🌱 Bud
+* Finished OSPO Feb meetup blog post draft! This will be reviewed today - thanks HZ! 
+
+#### 🌵 Thorn
+* Had some trouble finding a quote for the OSPO Feb meetup blog post - but finally was able to find one (thank you LWH and JK for the help)
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* BIDS Intern team with the AV setup for weekly Friday intern meetings 
+* Morning opening prep (kitchen setup & cleanup)
+
+#### Who helped me?
+* LWH and JK
+  * Helped me with finding a good quote for OSPO Feb blog post
+
+### Activities / tasks
+
+#### What did I do?
+* Opening prep (0.5 hr)
+* Setting up the AV & tech support (0.5 hr)
+* Finishing up the OSPO Feb meetup blog post draft (3 hr)
+* Had some conflicts this week so shorter shifts 
+
+#### What will I do next week
+* Finish and release the OSPO Feb meetup blog post by next week 
+* Double check SDH access
+
+#### My availability
+* Fridays 10 am - 12 pm and 12 pm - 1 pm
+* Tuesdays or Thursdays from 10:30 AM to 12:30 PM 
+
+
 ## w/c 23 February 2026
 
 ### Rose-bud-thorn
