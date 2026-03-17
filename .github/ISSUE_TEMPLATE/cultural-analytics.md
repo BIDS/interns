@@ -5,15 +5,17 @@ title: 'Cultural Analytics Talk and Discussion series: [Speaker Name] - [Event D
 labels: 'event-planning'
 assignees: ''
 ---
+The Cultural Analytics Group, led by TT, invites guests to campus to lead a talk at the I School and a discussion at AI Futures Lab. Following is a list of standard tasks that should be edited to reflect the needs of the specific event/invited guest.
+
 
 ## Speaker Information
-- Speaker Name: 
-- Event Date: 
+- Speaker Name and Email:
+- Event Date:
+- Event Time:
 
 ---
 
 ## Reservations
-- [ ] Send speaker details and expense list to BIDS staff
 - [ ] Reserve Room 210, South Hall
 - [ ] Request lunch order for South Hall
 - [ ] Reserve Seminar Room at AI Futures Lab
@@ -35,6 +37,8 @@ assignees: ''
 - [ ] File signed speaker request on Drive
 - [ ] Send copy of signed request to Jonathan (Web)
 - [ ] Send registration update to [Admin Name TBD] (Determine if >40 lunches needed)
+- [ ] Get speaker details and expense list from TT, and add the expenses that will be covered to this issue
+standard: Lodging (Hotel Shattuck, 2 nts), Airfare, Ground Transportation, No meal reimbursements (lunch and dinner typically provided)
 
 ## Promotion
 - [ ] Request images from Emily (Social Media); Cc Caitlin (Comms)
