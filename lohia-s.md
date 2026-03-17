@@ -1,5 +1,44 @@
 # Saumya Lohia
 
+## w/c 9 March 2026
+
+### Rose-bud-thorn
+
+#### 🌹
+* Building IKEA furniture.
+
+#### 🌱
+* Nice weather over the week and going home for spring break.
+
+#### 🌵   
+* Law midterm coming up soon!
+
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Nothing of note this week.
+
+#### Who helped me?
+* AB and I working together to build IKEA furniture.
+
+### Activities / tasks
+
+#### What did I do?
+
+* Working on OSPO Monthly Knowledge share blog post. (4 hours)
+* Building IKEA furniture. (0.5 hours)
+
+#### What will I do next week?
+
+* [#100]([url](https://github.com/BIDS/interns/issues/100)) Work on OSPO Monthly Knowledge share blog post.
+* [#101]([url](https://github.com/BIDS/interns/issues/101)) Collaborate with HZ to write Cultural Analytics blog post.
+* Assist with Cultural Analytics event on Thursday, 3/19.
+
+* My available hours next week are:
+  * Tues, 8-10am, 3-5pm
+  * Thurs, 8-10am, 11:30am-2pm
+
 ## w/c 2 March 2026
 
 ### Rose-bud-thorn
