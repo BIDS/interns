@@ -1,3 +1,38 @@
+# Vincent Gu
+
+## w/c March 16 2026
+
+### Rose-bud-thorn
+
+#### 🌹
+* Loved the informal talk given at the lunch on Wednesday, some were interesting topics that I've never heard about before
+
+#### 🌱
+* I'm looking forward to going back to socal for spring break
+
+#### 🌵   
+* One of the things I could improve would be better at instilling more personal touches to the blog posts
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* JK: Helped carry food and drinks from SDH 621 to the social science matrix for the analytic week lunch talk
+* LWH: Started to do the entertainment forms for all of the cultural analytic events
+* LWH: Took attendance of everyone who came in for the AI future lab talk in the afternoon on Wednesday
+  
+#### Who helped me?
+* 
+
+### Activities / tasks
+
+#### What did I do?
+* Carry food and drinks from SDH 621 to the social science matrix for the analytic week lunch talk
+* Entertainment forms for all of the cultural analytic events
+* Took attendance of everyone who came in for the AI future lab talk in the afternoon on Wednesday
+
+#### What will I do next week?
+* Same Schedule
+
 # Vincent GU
 
 ## w/c Feb 23 2026
