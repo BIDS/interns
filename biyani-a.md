@@ -1,5 +1,80 @@
 # Ankita Biyani
 
+## w/c 16 March 2026
+
+### Rose-bud-thorn
+
+#### 🌹Rose
+* OSPO events this week - yay!    
+
+#### 🌱 Bud
+* Getting read to publish OSPO Feb meetup blog post draft - working on social media posts as well. 
+
+#### 🌵 Thorn
+* N/A
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Opening prep 
+* Cultural Analytics & event prep this week (including logistical prep and registration check-ins)! 
+* JK with seminar room AV set-up 
+
+#### Who helped me?
+* N/A
+
+### Activities / tasks
+
+#### What did I do?
+* Finishing up the OSPO Feb meetup blog post draft (2 hr)
+* Taking care of event logistics (3 hours)
+
+#### What will I do next week
+* Finish and release the OSPO Feb meetup blog post
+* Double check SDH access
+
+#### My availability
+* Fridays 10 am - 12 pm and 12 pm - 1 pm
+* Tuesdays or Thursdays from 10:30 AM to 12:30 PM 
+
+
+## w/c 9 March 2026
+
+### Rose-bud-thorn
+
+#### 🌹Rose
+* Looking forward to the OSPO events coming up next week!    
+
+#### 🌱 Bud
+* Revising OSPO Feb meetup blog post draft to incorporate comments from LWH and HZ. 
+
+#### 🌵 Thorn
+* N/A
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Opening prep 
+* LWH with buildin chairs for event preparation 
+
+#### Who helped me?
+* N/A
+
+### Activities / tasks
+
+#### What did I do?
+* Finishing up the OSPO Feb meetup blog post draft (1 hr)
+* Taking care of logistics - such as building chairs & opening prep (1 hours)
+
+#### What will I do next week
+* Finish and release the OSPO Feb meetup blog post by next week 
+* Double check SDH access
+
+#### My availability
+* Fridays 10 am - 12 pm and 12 pm - 1 pm
+* Tuesdays or Thursdays from 10:30 AM to 12:30 PM 
+
+
 ## w/c 2 March 2026
 
 ### Rose-bud-thorn
