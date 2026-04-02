@@ -1,5 +1,47 @@
 # Saumya Lohia
 
+## w/c 30 March 2026
+
+### Rose-bud-thorn
+
+#### 🌹
+* Feeling caught up on schoolwork coming back from break!
+
+#### 🌱
+* Really nice weather this weekend + the days getting longer.
+
+#### 🌵   
+* Also a rose, only a few weeks left in the semester but still feel like I have a lot to do.
+
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Nothing of note this week.
+
+#### Who helped me?
+* HZ reviewing the blog post for the OSPO Knowledge Exchange.
+
+### Activities / tasks
+
+#### What did I do?
+
+* [#100]([url](https://github.com/BIDS/interns/issues/100)) Working on OSPO Monthly Knowledge share blog post. (1.5 hours)
+* [#101]([url](https://github.com/BIDS/interns/issues/101)) Wrote first draft of Cultural Analytics blog post for 3/6 event. (2 hours)
+* [#125]([url](https://github.com/BIDS/interns/issues/125)) Worked on draft for Cultural Analytics 3/19 event. (2 hours)
+* Cleaning up at AIFL after events. (0.5 hours)
+
+#### What will I do next week?
+
+* [#100]([url](https://github.com/BIDS/interns/issues/100)) Finalize edits for OSPO blog post.
+* [#101]([url](https://github.com/BIDS/interns/issues/101)) Collaborate with HZ to finish Cultural Analytics blog post.
+* [#125]([url](https://github.com/BIDS/interns/issues/125)) Continue working on draft for Cultural Analytics 3/19 event.
+
+* My available hours next week are:
+  * Mon 11:45am-1:45pm
+  * Tues 9-11am, 3-5pm
+  * Thurs 9-11am
+
 ## w/c 9 March 2026
 
 ### Rose-bud-thorn
