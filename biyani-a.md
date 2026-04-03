@@ -1,5 +1,42 @@
 # Ankita Biyani
 
+## w/c 30 March 2026
+
+### Rose-bud-thorn
+
+#### 🌹Rose
+* Great weather!   
+
+#### 🌱 Bud
+* Finished OSPO Feb meetup blog post draft + social media drafts. 
+
+#### 🌵 Thorn
+* N/A
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* JK with reimbursements
+
+#### Who helped me?
+* JK with seminar room AV set-up 
+
+### Activities / tasks
+
+#### What did I do?
+* Finishing up the OSPO Feb meetup blog post draft and drafted social media posts - waiting for feedback from TS (2 hr)
+* Setting up the AV (0.5 hours)
+* Helping JK with drafting and submitting reimbursements (1.5 hours)
+
+#### What will I do next week
+* Publish the OSPO Feb meetup blog post on the BIDS website
+* Complete reimbursements in progress (waiting on signatures/form approvals)
+
+#### My availability
+* Fridays 10 am - 12 pm and 12 pm - 1 pm
+* Tuesdays or Thursdays from 10:30 AM to 12:30 PM 
+
+
 ## w/c 16 March 2026
 
 ### Rose-bud-thorn
