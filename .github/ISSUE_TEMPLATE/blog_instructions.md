@@ -23,10 +23,10 @@ assignees: ''
    - For UC Berkeley faculty, always prioritize linking to their official UC Berkeley website page.
 - [ ] Add links to people, orgs, and tools mentioned in the blog
 - [ ] Add a few photos or other related graphics
-    - Size to 768 x 512, 144dpi
-    - for the Feature Image, if possible and if it looks good, add a 1 px border to the image with color Berkeley Blue, Hex 002676
-    - Crop and adjust the lighting as needed
-    - Ask for help if needed
+   - blog images - size to 768 wide
+   - Crop and adjust the lighting as needed
+   - for the Feature Image - [use this Google Slide template](https://docs.google.com/presentation/d/17HyCHBVEh9_huffHeTenG6b6bx3wbH63FkRVESH7eu0/edit?usp=sharing) to size the image to 768x512 and to add a blue border
+   - hint: To download the images after they have been added to a google doc, navigate to File > Download > Web Page
 - [ ] Add Photo Descriptions and Alt Text to the draft
 - [ ] Choose a photo or image to be the "feature image" which will appear on the homepage
 - [ ] Create a second tab on the blog doc, and write social media posts for Bluesky and LinkedIn
