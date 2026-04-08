@@ -1,5 +1,37 @@
 # Vincent Gu
 
+## w/c March 30 2026
+
+### Rose-bud-thorn
+
+#### 🌹
+* Really enjoyed Peter's talk about the main topics about true crime and how evidence was extracted to create an analysis media effect on true crime
+#### 🌱
+* I'm looking forward to the weekend to enjoy a day at the black sand beach
+#### 🌵   
+* One of the things I could improve is to forget less since I forgot to remind the professor to proof read the blog post I wrote
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* JK: Helped clean up after CRELS workshop and washed the utensils. Did the recording for the meeting and the attendance
+* LWH: Grabbed the proof for the annual report from the library
+* LWH: Started on the blog post for Leonard
+  
+#### Who helped me?
+
+
+### Activities / tasks
+
+#### What did I do?
+* Helped clean up after CRELS workshop and washed the utensils. Did the recording for the meeting and the attendance (2hr)
+* Grabbed the proof for the annual report from the library (30min)
+* Started on the blog post for Leonard (2hr)
+
+#### What will I do next week?
+* Same Schedule
+
+
 ## w/c March 16 2026
 
 ### Rose-bud-thorn
