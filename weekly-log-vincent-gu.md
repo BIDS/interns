@@ -1,5 +1,36 @@
 # Vincent Gu
 
+## w/c April 6 2026
+
+### Rose-bud-thorn
+
+#### 🌹
+* Loved hearing everyone's position on the use of AI and hwo to effectively incorporate it into their work
+#### 🌱
+* I am looking forward to my last midterms happening a few weeks from now
+#### 🌵   
+* One of the things I could improve is to 
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* JK: Helped clean up after CRELS workshop and washed the utensils. Did the recording for the meeting and the attendance
+* LWH: Grabbed the proof for the annual report from the library again
+* LWH: Finished watching the recording and started to outline my blog post 
+  
+#### Who helped me?
+
+
+### Activities / tasks
+
+#### What did I do?
+* Helped clean up after CRELS workshop and washed the utensils. Did the recording for the meeting and the attendance (2hr)
+* Grabbed the proof for the annual report from the library (30min)
+* working on the blog post draft for Leonard (2hr)
+
+#### What will I do next week?
+* No work on friday I am getting my wisdom teeth pulled out
+
 ## w/c March 30 2026
 
 ### Rose-bud-thorn
