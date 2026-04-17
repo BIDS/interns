@@ -1,5 +1,82 @@
 # Ankita Biyani
 
+## w/c 13 April 2026
+
+### Rose-bud-thorn
+
+#### 🌹Rose
+* Feeling much better!  
+
+#### 🌱 Bud
+* Started new blog post & excited for the UC Open Summit 
+
+#### 🌵 Thorn
+* N/A
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* JK with submitting reimbursements (finished)
+* LWH with fridge clean-up for maintenance
+* SL with whiteboard setup & blog post review 
+
+#### Who helped me?
+* JK with seminar room AV set-up (thank you!)
+
+### Activities / tasks
+
+#### What did I do?
+* Continued working on CRELS annual NRT (NSF) report (0.5 hour)
+* Logistical work (fridge clean-up & whiteboard setup) (1.5 hour)
+* Reviewed SL blog post (great job!) (0.5 hour)
+* Started working on a new blog post (Cultural Analytics - MEV) (0.5 hour)
+* Setting up the AV (0.5 hours)
+* Helping JK with submitting reimbursements (0.5 hours)
+
+#### What will I do next week
+* Publish the OSPO Feb meetup blog post on the BIDS website (get TS feedback)
+* Prepare for UC Open Summit
+* Finish up new Cultural Analytics blog post draft 
+
+#### My availability
+* Fridays 10 am - 12 pm and 12 pm - 1 pm
+* Tuesdays or Thursdays from 10:30 AM to 12:30 PM
+
+## w/c 6 April 2026
+
+### Rose-bud-thorn
+
+#### 🌹Rose
+* Great weather!   
+
+#### 🌱 Bud
+*  
+
+#### 🌵 Thorn
+* Got sick :(
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* N/A - couldnt' make much of my shift due to not feeling well. 
+
+#### Who helped me?
+* N/A
+
+### Activities / tasks
+
+#### What did I do?
+* Started working on the CRELS annual NRT (NSF) report
+
+#### What will I do next week
+* Publish the OSPO Feb meetup blog post on the BIDS website
+* Work on additional blog posts and help for UC Open Summit preparation 
+* Complete reimbursements in progress (waiting on signatures/form approvals)
+
+#### My availability
+* Fridays 10 am - 12 pm and 12 pm - 1 pm
+* Tuesdays or Thursdays from 10:30 AM to 12:30 PM
+
 ## w/c 30 March 2026
 
 ### Rose-bud-thorn
