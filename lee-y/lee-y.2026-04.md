@@ -1,5 +1,50 @@
 # Yeonwoo Lee
 
+## w/c 13 April 2026
+
+### Rose-bud-thorn
+
+#### 🌹
+* OSPO blog post was published! 
+
+#### 🌱
+* I am excited for midterms to be over.
+
+#### 🌵   
+* I had to re-do some of the scheduling sheets because times got swapped, but things happen! 
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* MS & SL
+  *I helped edit material for blogs and the UC Open Schedule. 
+
+#### Who helped me?
+* SL
+  * She helped me edit my blog post! 
+
+### Activities / tasks
+
+#### What did I do?
+
+##### UC Open
+* [#137](https://github.com/BIDS/interns/issues/137) Creates slides and for UC Open and began to fill in the information. (4 hrs)
+
+##### Cultural Analytics Blog Post 
+* [#124](https://github.com/BIDS/interns/issues/124) Finished drafting the article and incorporating comments, and I also helped edit other interns' blog posts as well. (2 hrs)
+
+##### Event Assistance
+* Help clean up after the event on Wednesday. (.5 hrs) 
+
+
+#### What will I do next week?
+
+* Finish the remainder of organizing the schedules, and updating the calendar. 
+* My available hours next week are:
+  * Wed, 7:30am to 11:00am, 3:15pm to 7:00pm
+  * Thu, 7:30am to 12:00pm, 5:15 pm to 6:45pm 
+# Yeonwoo Lee
+
 ## w/c 23 February 2026
 
 ### Rose-bud-thorn
