@@ -17,7 +17,7 @@
 
 #### Who did I help?
 * MS & SL
-  *I helped edit material for blogs and the UC Open Schedule. 
+  * I helped edit material for blogs and the UC Open Schedule. 
 
 #### Who helped me?
 * SL
