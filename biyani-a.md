@@ -1,5 +1,46 @@
 # Ankita Biyani
 
+## w/c 20th and 27th April 2026
+
+### Rose-bud-thorn
+
+#### 🌹Rose
+* Looking forward to wrapping up some of my tasks   
+
+#### 🌱 Bud
+* Working on Cultural Analyticals Workshop by MEV
+
+#### 🌵 Thorn
+* N/A
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* JK with setup 
+
+#### Who helped me?
+* JK and LWH and KW
+* Big thanks to everyone for making UC Open possible!
+
+### Activities / tasks
+
+#### What did I do?
+* UC Open Summit registration (I really enjoyed the event)! (6 hours)
+* Feb OSPO meetup blog post - onto TS review (0.5 hour)
+* Cultural Analytics Workshop by MEV (1.5 hour) 
+* Continued working on CRELS annual NRT (NSF) report (0.5 hour)
+* Logistical work (1.5 hour)
+
+#### What will I do next week
+* Publish the OSPO Feb meetup blog post on the BIDS website (get TS feedback)
+* Finish up new Cultural Analytics MEV blog post draft 
+
+#### My availability
+* Fridays 10 am - 12 pm and 12 pm - 1 pm
+* Tuesdays or Thursdays from 10:30 AM to 12:30 PM
+
+
+
 ## w/c 13 April 2026
 
 ### Rose-bud-thorn
