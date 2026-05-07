@@ -23,11 +23,14 @@ assignees: ''
    - For UC Berkeley faculty, always prioritize linking to their official UC Berkeley website page.
 - [ ] Add links to people, orgs, and tools mentioned in the blog
 - [ ] Add a few photos or other related graphics
-   - blog images - size to 768 wide
-   - Crop and adjust the lighting as needed
-   - for the Feature Image - [use this Google Slide template](https://docs.google.com/presentation/d/17HyCHBVEh9_huffHeTenG6b6bx3wbH63FkRVESH7eu0/edit?usp=sharing) to size the image to 768x512 and to add a blue border
-   - hint: To download the images after they have been added to a google doc, navigate to File > Download > Web Page
+   - blog images - size to ~2000px wide, choose display "As Original Size" when adding to the post
+      - [ ] crop: very important to get rid of excess ceiling, for example, so the image isn't unnecessarily tall
+      - [ ] adjust the lighting as needed
+   - for the Feature Image - either [use this Google Slide template](https://docs.google.com/presentation/d/17HyCHBVEh9_huffHeTenG6b6bx3wbH63FkRVESH7eu0/edit?usp=sharing) to size the image to 768x512 and to add a blue border (Hex 002676) or use another graphics program like Photoshop ([Lilli's template](https://drive.google.com/open?id=14tL3MN_XtMbYJnlSMrgqe3-CaQhDEkeC&usp=drive_copy))
+      - [ ] hint: To download the images after they have been added to a google doc, navigate to File > Download > Web Page
 - [ ] Add Photo Descriptions and Alt Text to the draft
+      - [ ] examples: Photo: add description or for screenshots/graphics Image: add description
+      - [ ] include Alt Text and Title Text when uploading to the website
 - [ ] Choose a photo or image to be the "feature image" which will appear on the homepage
 - [ ] Create a second tab on the blog doc, and write social media posts for Bluesky and LinkedIn
 
@@ -50,7 +53,3 @@ assignees: ''
 - [ ] Lilli will publish the News items on the website and post on social media
 
 
-# How to update/edit template:
-- [ ] Open file /ISSUE_TEMPLATE
-- [ ] Click the Pencil icon to edit.
-- [ ] Commit the changes directly to your main branch.
