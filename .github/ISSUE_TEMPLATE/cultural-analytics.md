@@ -32,7 +32,7 @@ The Cultural Analytics Group, led by TT, invites guests to campus to lead a talk
 - [ ] Create PDF version of the invitation
 - [ ] [Share email draft](https://docs.google.com/document/d/1olB38PY9gWuqXn0vEUXU8aKkYtuOyZmG5mZmvu896qs/edit?pli=1&tab=t.9343ntqfgeqd) & PDF with Tim for review
 - [ ] Send formal invitation (with PDF attached) to speaker
-- [ ] Review, edit, and send email "Abstract request, Travel instructions, Lodging information" ([template](https://docs.google.com/document/d/1olB38PY9gWuqXn0vEUXU8aKkYtuOyZmG5mZmvu896qs/edit?usp=sharing))
+- [ ] Review, edit, and send email "Abstract request, Travel instructions, Lodging information" ([template](https://docs.google.com/document/d/1olB38PY9gWuqXn0vEUXU8aKkYtuOyZmG5mZmvu896qs/edit?pli=1&tab=t.qb61mz7h8j9i))
 - [ ] Complete speaker vendor registration (preferably completed before travel)
 
 ## Coordination
