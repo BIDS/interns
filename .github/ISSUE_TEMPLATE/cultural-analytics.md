@@ -32,18 +32,16 @@ The Cultural Analytics Group, led by TT, invites guests to campus to lead a talk
 - [ ] Create PDF version of the invitation
 - [ ] [Share email draft](https://docs.google.com/document/d/1olB38PY9gWuqXn0vEUXU8aKkYtuOyZmG5mZmvu896qs/edit?pli=1&tab=t.9343ntqfgeqd) & PDF with Tim for review
 - [ ] Send formal invitation (with PDF attached) to speaker
-- [ ] Send travel email ([Choose one](https://docs.google.com/document/d/1olB38PY9gWuqXn0vEUXU8aKkYtuOyZmG5mZmvu896qs/edit?pli=1&tab=t.al7juetvmell): “air travel - hotel” OR “local travel - hotel”)
+- [ ] Review, edit, and send email "Abstract request, Travel instructions, Lodging information" ([template](https://docs.google.com/document/d/1olB38PY9gWuqXn0vEUXU8aKkYtuOyZmG5mZmvu896qs/edit?pli=1&tab=t.al7juetvmell))
 - [ ] Complete speaker vendor registration (preferably completed before travel)
-- [ ] Send [Speaker Release Request](https://docs.google.com/document/d/1olB38PY9gWuqXn0vEUXU8aKkYtuOyZmG5mZmvu896qs/edit?pli=1&tab=t.mqwj6zqxnccd) (Once title/abstract are received)
 
 ## Coordination
 - [ ] Make a copy of the [Application Form](https://drive.google.com/open?id=1cyG0Ufe8kQmA7zkIEJKQ0yJcQfET94VdzGo163rOx6o&usp=drive_copy) and update for this event
 - [ ] Send title/abstract to Jonathan (Web) to add Zoom to the event
 - [ ] Send copy of the Application Form to Jonathan (Web)
 - [ ] File signed speaker request on Drive (will need to provide it to I School for video release)
-- [ ] Send registration update to [Admin Name TBD] (Determine if >40 lunches needed)
-- [ ] Get speaker details and expense list from TT, and add the expenses that will be covered to this issue
-standard: Lodging (Hotel Shattuck, 2 nts), Airfare, Ground Transportation, No meal reimbursements (lunch and dinner typically provided)
+- [ ] Check registrations and alert Anel Jauregui (I School Admin), if more than 40 lunches are needed
+- [ ] Ask I School IT (Jonathan) to add Lilli and Tim to the Zoom webinar as alternate hosts (note: If Lilli cannot attend, then someone else will need a brief training)
 
 ## Promotion
 - [ ] Request images from Emily (Social Media); Cc Caitlin (Comms)
