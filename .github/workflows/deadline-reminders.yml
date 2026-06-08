@@ -1,0 +1,16 @@
+name: Deadline Reminders
+
+on:
+  schedule:
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+
+jobs:
+  reminders:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send reminders
+        uses: petrandr/duedate_reminders@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
