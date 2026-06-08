@@ -6,11 +6,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  reminders:
+  reminder:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Send reminders
+      - name: Run deadline reminders
         uses: petrandr/duedate_reminders@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
