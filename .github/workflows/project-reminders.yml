@@ -1,0 +1,19 @@
+name: Project Deadline Reminders
+
+on:
+  schedule:
+    # 15:00 UTC corresponds to 8:00 AM Pacific Daylight Time (PDT)
+    - cron: '0 15 * * *'
+  workflow_dispatch:
+
+jobs:
+  check-deadlines:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Scan Project for Approaching Deadlines
+        uses: petrandr/duedate_reminders@latest
+        with:
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          project_number: 18  # <-- Replace with your actual GitHub Project number
+          duedate_field_name: "Deadline" # <-- Replace with the exact name of your project date field
+          notify_for: "expiring_issues"
