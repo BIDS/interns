@@ -10,10 +10,19 @@ jobs:
   check-deadlines:
     runs-on: ubuntu-latest
     steps:
-      - name: Scan Project for Approaching Deadlines
-        uses: petrandr/duedate_reminders@latest
+      - name: Scan Project for Deadlines Due Today
+        uses: petrandr/duedate_reminders@master
         with:
           gh_token: ${{ secrets.GITHUB_TOKEN }}
-          project_number: 18  # <-- Replace with your actual GitHub Project number
-          duedate_field_name: "Deadline" # <-- Replace with the exact name of your project date field
+          project_number: 18  
+          duedate_field_name: "Deadline" 
           notify_for: "expiring_issues"
+
+      - name: Scan Project for Upcoming Deadlines (3 Days)
+        uses: petrandr/duedate_reminders@master
+        with:
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          project_number: 18  
+          duedate_field_name: "Deadline" 
+          notify_for: "upcoming_issues"
+          custom_message: "Friendly reminder: This issue is due in 3 days!"
