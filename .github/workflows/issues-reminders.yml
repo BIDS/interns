@@ -25,4 +25,3 @@ jobs:
           project_number: 18  
           duedate_field_name: "Deadline" 
           notify_for: "upcoming_issues"
-          custom_message: "Friendly reminder: This issue is due in 3 days!"
