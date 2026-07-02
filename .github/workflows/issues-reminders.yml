@@ -11,17 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Scan Project for Deadlines Due Today
-        uses: petrandr/duedate_reminders@master
+        uses: petrandr/duedate_reminders@latest
         with:
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           project_number: 18  
           duedate_field_name: "Deadline" 
           notify_for: "expiring_issues"
+          notification_type: "comment"
 
-      - name: Scan Project for Upcoming Deadlines (3 Days)
-        uses: petrandr/duedate_reminders@master
-        with:
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
-          project_number: 18  
-          duedate_field_name: "Deadline" 
-          notify_for: "upcoming_issues"
