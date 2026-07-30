@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Scan Project for Deadlines Due Today
-        uses: petrandr/duedate_reminders@latest
+        uses: petrandr/duedate_reminders@v1.3
         with:
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           project_number: 18  
