@@ -10,12 +10,13 @@ jobs:
   check-deadlines:
     runs-on: ubuntu-latest
     steps:
-      - name: Scan Project for Deadlines Due Today
+      - name: Scan Project for Deadlines Due Tomorrow
         uses: petrandr/duedate_reminders@v1.3
         with:
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          gh_token: ${{ secrets.PROJECT_TOKEN }}
           project_number: 18  
           duedate_field_name: "Deadline" 
           notify_for: "expiring_issues"
           notification_type: "comment"
+          repository_owner_type: "organization"
 
