@@ -1,5 +1,134 @@
 # Kyle Cheng
 
+## w/c 30 June 2025
+
+### Rose-bud-thorn
+
+#### 🌹
+
+* Writing my proposals onto a Google doc was a great way to organize my thoughts during our meeting. 
+
+#### 🌱
+
+* Excited to start contributing to The Turing Way!
+  I posted the writeup to GitHub and we will wait for others to give the ok or suggestions.
+
+#### 🌵
+
+* Captioning was more difficult than I expected and could easily turn into an endless task if I wanted the captioning to be 100% perfect.
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+
+* BIDS / JK
+  * I helped finish captioning Peter's talk
+* TH
+  * I sent over my notes for last Friday's BIDS panel
+* LWH
+  * Wrote a few notes for regarding Peter's talk
+  * Explained my work and also setting up GitHub issue templates
+* The Turing Way
+  * I am working on improving documentation
+
+#### Who helped me?
+
+* KW
+  * Guidance on how to approach The Turing Way work, and what to post and document on GitHub.
+* JK
+  * Taught me how to caption and how to set up my computer system for doing so.
+  * Captioned all of Peter's talk before me
+
+### Activities / tasks
+
+#### What did I do?
+
+##### The Turing Way
+
+* Read over documentation to identify and brainstorm improvements (15 hours)
+* Set up local system, download book and install dependencies (2 hours)
+* Writeup Turing Way plan doc (3 hours)
+* Writeup Github post (2 hours)
+* Began writing GitHub tutorials (3 hours)
+
+###### Local build notes
+
+* Had to install python 3.13 via deadsnakes because the jupyterbook wants ipython==9.2.0, ubuntu is still on python 3.10.12.
+* Building the book takes quite long, 6 minutes, but works
+
+##### Captioning
+
+* Setting up computer for captioning and learn how to caption with JK (0.5 hour)
+* Captioning and watching the video (3.25 hours)
+* Convert to caption file, upload, summary of video, etc (0.25 hour)
+
+##### Meetings
+
+* Met with KW and JK and TH for weekly update (2 hours)
+* Met with LWH (1 hour)
+  * explained my The Turing Way work and issue templates
+
+#### What will I do next week?
+
+* My available hours next week are 0, 0, 0, 0
+
+***
+
+## w/c 23 June 2025
+
+### Rose-bud-thorn
+
+#### 🌹
+* Staffing DSUS was successful.
+  Shifts were well defined and the event went smoothly.
+
+#### 🌱
+* DSUS workshop was such a great event!
+  I met so many people and learned a lot about the data science ecosystem here on campus.
+
+
+#### 🌵
+* When writing pieces for a workshop event, it was a challenge to figure out what to write about.
+  There was a lot of information being presented.
+  I needed to identify the overarching theme and write about only the relevant aspects of the talk.
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* Helped DSUS event with staffing
+* Wrote pieces for BIDS socials
+* Took BIDS pictures
+* Helped KW with Github PR demo
+
+#### Who helped me?
+* KW
+  * Guidance and direction for Turing Way Work
+  * DSUS help
+* JK and TH
+  * w/ DSUS support
+* LWH
+  * Proofread and suggested comments for pieces that I wrote
+  * Posted pieces that I wrote
+
+### Activities / tasks
+
+#### What did I do?
+
+##### DSUS
+* Supported DSUS (33.5 hours)
+  * Check-in, attended talks to collect content for BIDS social posts, lunch setup/cleanup, space setup/cleanup.
+* PR demo for KW (1 hour)
+* Write pieces covering DSUS (3.5 hours)
+
+##### Meetings
+* Met with KW and JK for weekly update (1 hour)
+* Met with KW and BS and TH for Scientific Python discussion (1 hour)
+
+#### What will I do next week?
+* My available hours next week are 8, 8, 8, 8.
+* Write blogpost for BIDS panel, perhaps cover DSUS as a whole
+* Continue "The Turing Way" work
+
 ## w/c 16 June 2025
 
 ### Rose-bud-thorn
