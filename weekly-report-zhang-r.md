@@ -82,21 +82,20 @@
 ## Template (clean):
 
 
-# [Your Name]
+# Richard Zhang
 
-
-## w/c [Date]
+## October 30, 2026
 
 ### Rose-bud-thorn
 
 #### 🌹
-* [Things that went well this week.]
+* First day. Excited 
 
 #### 🌱
-* [Something with potential or your're looking forward to.]
+* Looking forward to working with the whole Bids team and seeing what I can contribute. 
 
 #### 🌵   
-* [A challenge or pain point that needs attention.]
+* Lots of Exams to prepare for. 
 
 ### 🤝 Reciprocal support
 
