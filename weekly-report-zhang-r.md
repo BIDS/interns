@@ -82,10 +82,9 @@
 ## Template (clean):
 
 
-# [Your Name]
+# Richard Zhang
 
-
-## w/c [Date]
+## October 30, 2026
 
 ### Rose-bud-thorn
 
