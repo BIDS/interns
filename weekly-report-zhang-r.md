@@ -1,30 +1,37 @@
 # Richard Zhang
 
-## October 30, 2026
+## November 6, 2026
 
 ### Rose-bud-thorn
 
 #### 🌹
-* First day. Excited 
+* It was great to get some experience with seeing how we host a small event at AIFL.
+* It was interesting learning about the capabilities of Github as a Project Management. 
 
 #### 🌱
-* Looking forward to working with the whole Bids team and seeing what I can contribute. 
+* Looking forward in continuing the improvement of our Github Project Template.
+* Looking forward to go ice skating on Saturday. 
 
 #### 🌵   
-* Lots of Exams to prepare for. 
+* Trying to effective utilize Github as a Project Management board tool within scope is quiet complex. 
 
 ### 🤝 Reciprocal support
 
 #### Who did I help?
-* [Summary with names in initials.]
+* I don't know :/
 
 #### Who helped me?
-* [Names in initiials]
-  * [Tasks.]
+* Lili
+  * For guiding me on how we should tackle making our template more user friendly.
 
 ### Activities / tasks
-
+* Continue working on the template board.
+  
 #### What did I do?
+* Helped with cleanup for AIxD day 1
+* Worked on learning about Github's project board capabilities.
+* Formed a general idea to improving the template
+  
 ##### CDSS / Interdisciplinary Coordination
 * [Task description (X hrs)]
 
@@ -33,7 +40,9 @@
 
 #### What will I do next week?
 * My available hours next week are:
-  * [Your timeslots (Full or changes if needed)]
+  * Monday 11/9 (1:30-5pm)
+  * Wednesday 11/11 (2-5pm) TBD-Veteran's Day
+  * Friday 11/13 (3-7pm) 
 ##### BIDS Coordination
 * [Tasks.]
 
