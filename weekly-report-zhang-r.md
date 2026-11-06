@@ -1,125 +1,48 @@
-# A guide to BIDS Weekly Report
-
-#### This guide is designed to help you navigate your weekly reporting, which is essential for tracking project progress, identifying areas where you need support, and maintaining clear communication with the team. 
-
-#### Below, you will find the steps to create and update your report, templates to refer to, and a legend to guide you.
-
-
-
-# Steps to create and update your report
-
-### Initial Setup
-
-* Create **one** file in the repository (BIDS / interns) named `weekly-report-[your-name].md` 
-* This single file will serve as your log for the **entire duration** of your internship.
-
-### Weekly Update 
-
-
-* Create a Branch: Do not edit the `main` branch directly. Each week, create a new branch named `report-[your-name]-[date]`.
-* Edit your file: Add your new entry to the **top** of your `weekly-report-[your-name].md` file.
-* Commit & Push: Save your changes with a clear message (e.g., "Add weekly report for XX Aug 11").
-* Open a Pull Request (PR): Open a new PR to merge your branch into `main`.
-* Merge: Once your supervisor has seen the report and left any necessary comments, the PR will be merged, and the process starts over the following week.
-
-
-
-
-# Templates
-
-#### Please read the example below for guidance on detail, then refer to the Clean Template into your personal report file to begin your weekly entry.
-
-## Template (with examples):
-
-
-# [Your Name]
-
-
-## w/c [Date | 4 August 2025]
-
-### Rose-bud-thorn
-
-#### 🌹
-* [Things that went well this week. | This week was the last time all the interns were here together, and it was just nice having everyone around, even though I was sometimes too busy to be there all day.]
-
-#### 🌱
-* [Something with potential or your're looking forward to. | I'm looking forward to the hackathon next week, especially with the added context KW shared that makes it feel a lot more developmental.]
-
-#### 🌵   
-* [A challenge or pain point that needs attention. | Reimbursement processes proved to be complicated (of course). ]
-
-### 🤝 Reciprocal support
-
-#### Who did I help?
-* [Summary with names in initials | Getting the process started for travel reimbursements for upcoming speaker.]
-
-#### Who helped me?
-* [Names in initiials | LWH & TH]
-  * [Tasks | reviewed BCEN blog post draft.]
-
-### Activities / tasks
-
-#### What did I do?
-##### CDSS / Interdisciplinary Coordination
-* [Task description (X hrs) | Coordinated with future lecture speaker (1 hr).]
-
-##### BIDS Coordination
-* [Task description (X hrs) | Coordinated CRELS and CSSTP schedule (3 hrs).]
-
-#### What will I do next week?
-* My available hours next week are:
-  * [Your assigned timeslots (Full or changes if needed) |
-  * Mon, 11am to 2pm (Full)
-  * Wed, 1pm to 4pm (Need to leave at 3pm for an event)
-  * Fri, 10am to 3pm (Unavailable due to a midterm)]
-##### BIDS Coordination
-* [Tasks | Continue blog for Developer Summit.]
-
-
-
----------------------------------------------------------------------------------------
-
-## Template (clean):
-
-
 # Richard Zhang
 
-## October 30, 2026
+## November 6, 2026
 
 ### Rose-bud-thorn
 
 #### 🌹
-* First day. Excited 
+* It was great to get some experience with seeing how we host a small event at AIFL.
+* It was interesting learning about the capabilities of Github as a Project Management. 
 
 #### 🌱
-* Looking forward to working with the whole Bids team and seeing what I can contribute. 
+* Looking forward in continuing the improvement of our Github Project Template.
+* Looking forward to go ice skating on Saturday. 
 
 #### 🌵   
-* Lots of Exams to prepare for. 
+* Trying to effective utilize Github as a Project Management board tool within scope is quiet complex. 
 
 ### 🤝 Reciprocal support
 
 #### Who did I help?
-* [Summary with names in initials.]
+* I don't know :/
 
 #### Who helped me?
-* [Names in initiials]
-  * [Tasks.]
+* LH
+  * For guiding me on how we should tackle making our template more user friendly.
 
 ### Activities / tasks
-
+* Continue working on the template board.
+  
 #### What did I do?
+* Helped with cleanup for AIxD day 1
+* Worked on learning about Github's project board capabilities.
+* Formed a general idea to improving the template
+  
 ##### CDSS / Interdisciplinary Coordination
-* [Task description (X hrs)]
 
 ##### BIDS Coordination
-* [Task description (X hrs)]
 
 #### What will I do next week?
 * My available hours next week are:
-  * [Your timeslots (Full or changes if needed)]
+  * Monday 11/9 (1:30-5pm)
+  * Wednesday 11/11 (2-5pm) TBD-Veteran's Day
+  * Friday 11/13 (3-7pm) 
 ##### BIDS Coordination
-* [Tasks.]
+
 
 
 
