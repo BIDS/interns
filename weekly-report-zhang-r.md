@@ -33,10 +33,8 @@
 * Formed a general idea to improving the template
   
 ##### CDSS / Interdisciplinary Coordination
-* [Task description (X hrs)]
 
 ##### BIDS Coordination
-* [Task description (X hrs)]
 
 #### What will I do next week?
 * My available hours next week are:
@@ -44,7 +42,7 @@
   * Wednesday 11/11 (2-5pm) TBD-Veteran's Day
   * Friday 11/13 (3-7pm) 
 ##### BIDS Coordination
-* [Tasks.]
+
 
 
 
