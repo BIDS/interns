@@ -21,7 +21,7 @@
 * I don't know :/
 
 #### Who helped me?
-* Lili
+* LH
   * For guiding me on how we should tackle making our template more user friendly.
 
 ### Activities / tasks
