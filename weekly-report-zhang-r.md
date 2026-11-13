@@ -1,5 +1,32 @@
 # Richard Zhang
 
+## November 9, 2026
+
+### Rose-bud-thorn
+
+#### 🌹
+* It was great to get some experience on how we setup our events at the social kitchen in Gateway. Particularly learning how we test and setup the AV system for our Gateway events.
+ 
+#### 🌱
+* Looking forward to meeting new people from the INGRES event. As well as get experience working in a extremely vital and large event for BIDS.
+* Looking forward to finally picking up my ceramics that I made with my sister and aunt during pottery during the weekend. (It was ready for pickup 1.5-2 months ago 😭)
+
+#### 🌵  
+* I was waiting for a caterer at the dock area. However, the caterer ended up at the opposite. It was extremely helpful that LH sent me the ezcater link with the driver's location to help me locate him.
+
+
+### 🤝 Reciprocal support
+
+#### Who helped me?
+* LH: For sending me the ezcater link to help me locate the delivery driver. Or else I would have been at the dock confused where he was and waste time standing there. 
+
+
+### Activities / tasks
+* Help with setting up, checking in guests, engaging with the guests, and providing any other assistance for INGRES.
+* Continue with the project management template particularly in condensing tasks into one overall task post. So that we do not need to create so many issues for those tasks. Especially, when the tasks can be completed in tandem. [Github Issue](https://github.com/BIDS/interns/issues/222)
+* Work on editing our blog template. Particularly in updating the Google image template to Adobe Express image template. As well as seeing other parts of the template to make it more digestible for anyone who will be utilizing the template to create our blogs for all of our events. [Github Issue](https://github.com/BIDS/interns/issues/223)
+
+
 ## November 6, 2026
 
 ### Rose-bud-thorn
