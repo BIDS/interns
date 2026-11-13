@@ -26,8 +26,7 @@ assignees: ''
    - blog images - size to ~2000px wide, choose display "As Original Size" when adding to the post
       - [ ] crop: very important to get rid of excess ceiling, for example, so the image isn't unnecessarily tall
       - [ ] adjust the lighting as needed
-   - for the Feature Image - either [use this Google Slide template](https://docs.google.com/presentation/d/17HyCHBVEh9_huffHeTenG6b6bx3wbH63FkRVESH7eu0/edit?usp=sharing) to size the image to 768x512 and to add a blue border (Hex 002676) or use another graphics program like Photoshop ([Lilli's template](https://drive.google.com/open?id=14tL3MN_XtMbYJnlSMrgqe3-CaQhDEkeC&usp=drive_copy))
-      - [ ] hint: To download the images after they have been added to a google doc, navigate to File > Download > Web Page
+   - for the Feature Image - use this [adobe express template](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:2247afa0-1103-545c-8639-b3dacbad3e32?accept=true&invite=true&promoid=Z662FLTQ&mv=other) to add a blue border 
 - [ ] Add Photo Descriptions and Alt Text to the draft
       - [ ] examples: Photo: add description or for screenshots/graphics Image: add description
       - [ ] include Alt Text and Title Text when uploading to the website
