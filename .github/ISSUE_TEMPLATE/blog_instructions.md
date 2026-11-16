@@ -11,13 +11,10 @@ assignees: ''
 - [ ] Create and save your draft in [this folder](https://drive.google.com/drive/folders/14MWOyLiFzHVEw46btOvCr-KOFSFD14uC?usp=drive_link)
 - [ ] Consider the purpose of the event or project and the impact we want it to have, and incorporate it into blog/story. Consider the BIDS [mission / vision](https://bids.berkeley.edu/about/directors-vision-2024) and connect as best you can.
     * Ask if you are unsure of the purpose
+- [ ] Write in a welcoming, warm, and informative tone
 - [ ] Include a few section headlines - example [here](https://bids.berkeley.edu/news/jupytercon-and-next-100-programming-systems)
 - [ ] Add a quote from the speaker and a testimonial from a guest/attendee whenever possible.
      * Ask if you are unsure of who could give a nice testimonial
-- [ ] Welcoming, warm, and informative tone
-- [ ] Close with a call to action (CTA) - some options:
-    - General: "To stay in touch with the BIDS community and join the conversation, please visit follow us on [Bluesky](https://bsky.app/profile/ucbids.bsky.social) & [LinkedIn](https://www.linkedin.com/company/berkeley-institute-for-data-science-bids-/) and subscribe to the [BIDS newsletter](https://bids.berkeley.edu/join/mailing-lists)."
-    - Specific to Cultural Analytics: "To stay in touch and join these far-ranging conversations of critical cultural importance, please join our Cultural Analytics mailing list by [visiting this page](https://groups.google.com/a/lists.berkeley.edu/g/bids-cultural-analytics/about) or emailing bids-cultural-analytics+subscribe@lists.berkeley.edu."
 - [ ] Linking People/Orgs: Add links to people, orgs, and tools mentioned.
    - Use LinkedIn for most people (if up-to-date).
    - For UC Berkeley faculty, always prioritize linking to their official UC Berkeley website page.
@@ -26,17 +23,18 @@ assignees: ''
    - blog images - size to ~2000px wide, choose display "As Original Size" when adding to the post
       - [ ] crop: very important to get rid of excess ceiling, for example, so the image isn't unnecessarily tall
       - [ ] adjust the lighting as needed
-   - for the Feature Image - either [use this Google Slide template](https://docs.google.com/presentation/d/17HyCHBVEh9_huffHeTenG6b6bx3wbH63FkRVESH7eu0/edit?usp=sharing) to size the image to 768x512 and to add a blue border (Hex 002676) or use another graphics program like Photoshop ([Lilli's template](https://drive.google.com/open?id=14tL3MN_XtMbYJnlSMrgqe3-CaQhDEkeC&usp=drive_copy))
-      - [ ] hint: To download the images after they have been added to a google doc, navigate to File > Download > Web Page
 - [ ] Add Photo Descriptions and Alt Text to the draft
-      - [ ] examples: Photo: add description or for screenshots/graphics Image: add description
-      - [ ] include Alt Text and Title Text when uploading to the website
+   - [ ] examples: Photo: add description or for screenshots/graphics Image: add description
+   - [ ] include Alt Text and Title Text when uploading to the website
 - [ ] Choose a photo or image to be the "feature image" which will appear on the homepage
+   - for the Feature Image - [use this Adobe Express template](https://express.adobe.com/id/urn:aaid:sc:VA6C2:2247afa0-1103-545c-8639-b3dacbad3e32). Duplicate Template -> Select Second Page -> Remove "Place the feature image in the frame" Text -> Upload Image -> Download Image. 
 - [ ] Create a second tab on the blog doc, and write social media posts for Bluesky and LinkedIn
-
+- [ ] Close with a call to action (CTA) - some options:
+    - General: "To stay in touch with the BIDS community and join the conversation, please visit follow us on [Bluesky](https://bsky.app/profile/ucbids.bsky.social) & [LinkedIn](https://www.linkedin.com/company/berkeley-institute-for-data-science-bids-/) and subscribe to the [BIDS newsletter](https://bids.berkeley.edu/join/mailing-lists)."
+    - Specific to Cultural Analytics: "To stay in touch and join these far-ranging conversations of critical cultural importance, please join our Cultural Analytics mailing list by [visiting this page](https://groups.google.com/a/lists.berkeley.edu/g/bids-cultural-analytics/about) or emailing bids-cultural-analytics+subscribe@lists.berkeley.edu."
 # Elements of a BIDS Social Media Post
 (add instructions from [this doc](https://docs.google.com/document/d/19NmU65vmNijSVbS0Lx4ibo8WWMjWCpSZTuyn-Gl7Q18/edit?pli=1&tab=t.l7bddjuhnawf))
-- [ ] **Featured Image:** Use the [Featured Image Template in Google Slides](https://docs.google.com/presentation/d/17HyCHBVEh9_huffHeTenG6b6bx3wbH63FkRVESH7eu0/edit?usp=sharing) to create your Featured Image graphic. 
+- [ ] **Featured Image:** Use the [Featured Image Template in Adobe Express](https://express.adobe.com/id/urn:aaid:sc:VA6C2:2247afa0-1103-545c-8639-b3dacbad3e32) to create your Featured Image graphic. 
 - [ ] Add the finished Featured Image to the **Social Media tab** of your draft doc for easy access.
 - [ ] Include a link to photo/image from the blog that you think is best for the social media post
 - [ ] Add a direct link to the Feature Image on this tab.
