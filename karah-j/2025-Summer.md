@@ -1,5 +1,66 @@
 # Jamilah Karah
 
+## w/c 16 November 2026
+
+### Rose-bud-thorn
+
+#### 🌹
+* I sat in on the Salon for the full time for the first time this week, and it was so fun to hear all the conversation and different perspectives, which made the conversations afterwards more insightful.
+
+#### 🌱
+* I started working with TT this week, and it was fun to go to the Next Steps fair on his behalf and come back with some insight for him. From talking with the organizer, I saw how hard it has become to get both companies and students to show up, which I think ties into some of what he was hoping to learn. I'm excited to keep supporting him.
+* After setting up MyST and learning more git with KW, I'm looking forward to getting into the project management side of things using git and GitHub! 
+
+#### 🌵
+* Sorting out FP's travel and seat selection took a lot of back and forth with different people before I finally found out economy plus wasn't available. Sigh.
+
+### 🤝 Reciprocal support
+
+#### Who did I help?
+* FP
+  * Ongoing support with travel, meeting scheduling, and reimbursements
+* TT
+  * Attended the Next Steps fair on his behalf and sent him a full summary
+
+#### Who helped me?
+* KW
+  * Set up MyST on my computer, helped me get my notes up in it, and walked me through git
+* SJ
+  * Supported the brainstorming for AIC form for collecting final answers
+* HZ
+  * Helped with intern prep
+* LWH
+  * Supported me across various operations and got me set up to handle TT's reimbursements
+
+### Activities / tasks
+
+#### What did I do?
+* Arranged FP's travel and confirmed his seat selection (2 hrs)
+* Tracked FP's Paris trip agenda ahead of the reimbursement, which will need a submitted agenda (1 hr)
+* Processed 5 reimbursements for FP (2 hrs)
+* Scheduled 4 meetings for FP, some still being finalized (2 hrs)
+* Demoed the AIC form for collecting final answers, planned the AIC selection meeting, and prepped the final form with SJ (2.5 hrs)
+* Met with TT and reviewed the materials he shared to get oriented in my new role supporting him (2 hrs)
+* Attended the Next Steps fair for TT and sent him a summary of the companies and programs there, turnout, and what I heard from the organizer and the Assistant Dean of Students (2 hrs)
+* Prepared for and attended the Salon (4 hrs)
+* Prepped and set up for OSPO (1 hr)
+* Met with KW to set up MyST, organize my notes, and learn more git, then put it into practice (3 hrs)
+* Worked on my own in MyST and git to build familiarity (2 hrs)
+* Drafted the agenda for, and attended, the internal BioJupyter meeting (2.5 hrs)
+* Attended Fraser Lab Connect for KZ's demo (1.5 hrs)
+* Attended the BIDMaP AI for Science Seminar Series talk by Kristin Persson (1 hr)
+* Found a time for an updated JupyterHealth meeting and shared the draft email with KW (1 hr)
+* Followed up on approval to use the Jupyter and Quansight logos, which are close to going through (0.5 hr)
+* Prepped for the intern meeting with HZ (1.5 hrs)
+* Met with the interns (1 hr)
+* Put together this weekly tracker (0.5 hr)
+
+#### What will I do next week?
+* My available hours next week are 8, 8, 8, off, off (Thanksgiving).
+* Finish the BioJupyter issue layout in GitHub and get everything organized ahead of the first week of December, when a lot of work is ceremoniously due
+* Finalize the AIC form ahead of the selection meeting
+* Finish scheduling FP's open meetings
+* Follow up on the Jupyter and Quansight logo approvals
 
 ## w/c 30 June 2025
 
