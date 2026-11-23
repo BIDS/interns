@@ -1,5 +1,32 @@
 # Richard Zhang
 
+
+## November 16, 2026
+
+### Rose-bud-thorn
+
+#### 🌹
+* It was really interesting that I saw my professor at this weeks Salon (Math Research in the Age of AI with Tatiana Toro)
+* I finally picked up my pottery over the weekend. It was ready for pickup 1.5-2 months ago. I did not go the other week even though I said that I was going to go. 😓
+* It was fun learning how to edit videos. As this is the first time I have ever edited a video using Adobe Premiere. I have always edited videos on my phone using CapCut.
+ 
+#### 🌱
+* Looking forward to finally finishing the transcription and video for INGRES [Github Issue](https://github.com/BIDS/event-2026-11-13-CSalumni/issues/59)
+* Looking forward to writing the blog post for cultural analytics with Meredith Martin and Wouter Haverals. (My first ever blog post for BIDS!) 
+
+#### 🌵  
+* I was having an issue with my Adobe plan. In which I could not access Adobe premiere for a bit.😐 But it works for me now.
+
+
+### Activities / tasks
+* Help with setting up and providing any other assistance for AIFL Salon. (1-2hr)
+* Continue with the project management template particularly in condensing tasks into one overall task post. So that we do not need to create so many issues for those tasks. Especially, when the tasks can be completed in tandem. [Github Issue](https://github.com/BIDS/interns/issues/222) (1 hr)
+* Created the Github issue for the QuantStack Seminar in the Cultural Analytics repo [Github Issue](https://github.com/BIDS/cultural-analytics/issues/13) (30 min)
+* Worked on video editing and transcription and video bumper making for INGRES [Github Issue](https://github.com/BIDS/event-2026-11-13-CSalumni/issues/59)
+
+
+
+
 ## November 9, 2026
 
 ### Rose-bud-thorn
@@ -22,9 +49,9 @@
 
 
 ### Activities / tasks
-* Help with setting up, checking in guests, engaging with the guests, and providing any other assistance for INGRES.
-* Continue with the project management template particularly in condensing tasks into one overall task post. So that we do not need to create so many issues for those tasks. Especially, when the tasks can be completed in tandem. [Github Issue](https://github.com/BIDS/interns/issues/222)
-* Work on editing our blog template. Particularly in updating the Google image template to Adobe Express image template. As well as seeing other parts of the template to make it more digestible for anyone who will be utilizing the template to create our blogs for all of our events. [Github Issue](https://github.com/BIDS/interns/issues/223)
+* Help with setting up, checking in guests, engaging with the guests, and providing any other assistance for INGRES. (4hr)
+* Continue with the project management template particularly in condensing tasks into one overall task post. So that we do not need to create so many issues for those tasks. Especially, when the tasks can be completed in tandem. [Github Issue](https://github.com/BIDS/interns/issues/222) (1 hr)
+* Work on editing our blog template. Particularly in updating the Google image template to Adobe Express image template. As well as seeing other parts of the template to make it more digestible for anyone who will be utilizing the template to create our blogs for all of our events. [Github Issue](https://github.com/BIDS/interns/issues/223) (1 hr)
 
 
 ## November 6, 2026
